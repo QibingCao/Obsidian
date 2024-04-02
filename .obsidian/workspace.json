@@ -65,14 +65,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c64c9195697d6fde",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
             "id": "dfef194c0e8794d8",
             "type": "leaf",
             "state": {
@@ -95,6 +87,14 @@
               "state": {
                 "file": "BUFFER/linux服务器.md"
               }
+            }
+          },
+          {
+            "id": "bd01d7a91324071c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           },
           {
@@ -136,13 +136,21 @@
                 "useHierarchy": false
               }
             }
+          },
+          {
+            "id": "c64c9195697d6fde",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 423.5
   },
   "left-ribbon": {
     "hiddenItems": {
