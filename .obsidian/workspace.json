@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "21a23e04ce56c0d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "30c3a5bc4d580a50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d450665c1b03fb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BUFFER/linux服务器.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "523551bd6ab08e4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb5d571af24d2e43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dd19a0a85a3b9d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "1c6129ea2a33e118",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 206.5
+  },
+  "right": {
+    "id": "a8bddfc9c6119260",
+    "type": "split",
+    "children": [
+      {
+        "id": "554b56585cba2f35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c64c9195697d6fde",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "dfef194c0e8794d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "epoll_data",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02d73927d6325f4d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BUFFER/linux服务器.md"
+              }
+            }
+          },
+          {
+            "id": "3df798db1b1b6be6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BUFFER/linux服务器.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "250ef0f56508e6bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BUFFER/linux服务器.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c4f3dc08794badd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": true,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": true,
+      "publish:发布更改": false,
+      "templater-obsidian:Templater": true,
+      "obsidian-spaced-repetition:复习卡片": false
+    }
+  },
+  "active": "7d450665c1b03fb7",
+  "lastOpenFiles": [
+    "README.md",
+    "BUFFER/linux服务器.md",
+    "DISK/Epoll/EPOLL：TCP服务端处理多个客户端请求.md",
+    "DISK/Epoll/Epoll使用 by 佚名.md",
+    "DISK/Epoll/底层原理：epoll源码分析，还搞不懂epoll的看过来.md",
+    "Utils/attachments/Pasted image 20240402173223.png",
+    "Utils/attachments/Pasted image 20240402173216.png",
+    "DISK/Epoll/Epoll源码 by 竹子.md",
+    "DISK/Epoll/网络编程 by HBJ.md",
+    "DISK/Epoll/epoll 惊群问题.md",
+    "Utils/attachments/1460000039676526.webp",
+    "Utils/attachments/1460000039676527.webp",
+    "Utils/attachments/Pasted image 20240401200744.png",
+    "DISK/Epoll",
+    "DISK/leetcode/331 验证二叉树的前序序列化.md",
+    "DISK/leetcode/48 旋转图像.md",
+    "DISK/leetcode/经验总结.md",
+    "DISK/leetcode/240 搜索二维矩阵.md",
+    "Utils/Dev Utils/Java/Java Collections/Java Collections 简述.md",
+    "Utils/attachments/Pasted image 20240329222542.png",
+    "DISK/leetcode/54 螺旋矩阵.md",
+    "Utils/Templates by Chris/Capture.md",
+    "Utils/Templates by Chris/Books (Templates Version).md",
+    "Utils/Templates by Chris/Books (Templater Basic Version).md",
+    "Utils/template/加入BUFFER.md",
+    "BUFFER/tset.md",
+    "DISK/在线实验平台/无标题文档.md",
+    "Utils/attachments/Pasted image 20240331150736.png",
+    "Pasted image 20240331150651.png",
+    "Utils",
+    "DISK/在线实验平台/在线实验平台.md",
+    "DISK/在线实验平台/OJ.md",
+    "DISK/Redis 点评/Redis.md",
+    "Utils/template/Insert Callouts.md",
+    "Utils/Dev Utils/Java/Java位运算符.md",
+    "DISK/CSAPP/第一次作业.md",
+    "DISK",
+    "Utils/Templates by Chris",
+    "BUFFER",
+    "Utils/template",
+    "Utils/Dev Utils/Java",
+    "Utils/attachments/Pasted image 20240330194518.png",
+    "attachments/Pasted image 20240330133649.png",
+    "Utils/attachments",
+    "DISK/八股/MySQL",
+    "Utils/Dev Utils/Java/Java Collections",
+    "未命名.canvas"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Obsidian Nord",
+  "baseFontSize": 22,
+  "monospaceFontFamily": "Consolas",
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "page-width"
+  ]
+}
