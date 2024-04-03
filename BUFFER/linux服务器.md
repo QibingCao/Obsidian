@@ -2,7 +2,7 @@
 
 **gcc的全称是GNU Compiler Collection，它是一个能够编译多种语言的编译器。**
 
-最开始gcc是作为C语言的编译器（GNU C Compiler），现在除了c语言，还支持C++、java、Pascal等语言。
+最开始gcc是作为C语言的编译器（GNU C C  ompiler），现在除了c语言，还支持C++、java、Pascal等语言。
 
 # gcc工作流程
 
