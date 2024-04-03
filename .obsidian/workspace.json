@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "c64c9195697d6fde",
+            "id": "32e8c6ada04a1eef",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423.5
+    "width": 447.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,7 +165,7 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "7d450665c1b03fb7",
+  "active": "32e8c6ada04a1eef",
   "lastOpenFiles": [
     "README.md",
     "BUFFER/linux服务器.md",
