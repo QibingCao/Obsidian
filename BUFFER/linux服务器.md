@@ -25,7 +25,7 @@
 - 链接
   - .o文件变成可执行文件，一般不加后缀
 
-> ![img](https://cdn.jsdelivr.net/gh/luogou/cloudimg/data/202201241320667.jpeg)
+>![[Pasted image 20240403185205.png]]
 >
 > **预处理**实际上是将头文件、宏进行展开。
 >
@@ -51,7 +51,7 @@
 
 # 静态库和动态库
 
-![clip_image002[4]](https://images0.cnblogs.com/blog/92071/201310/16201602-9c6047fe25ac46659d0a5ab2945552ce.png)
+![[Pasted image 20240403185219.png]]
 
 1. 什么是库？
 
@@ -73,7 +73,7 @@
 
    - 态库的使用
 
-   <img src="https://cdn.jsdelivr.net/gh/luogou/cloudimg/data/20210608145829.png" alt="image-20210509140337810" style="zoom: 50%;" align="left" />
+![[Pasted image 20240403185248.png]]
 
 3. 动态库的制作(so代表动态库)
    - 命名规则：libxxx.so
@@ -99,7 +99,7 @@
 
 对任意一个文件使用ls -l命令，如下图所示：
 
-<img src="https://cdn.jsdelivr.net/gh/luogou/cloudimg/data/20210608145838.png" alt="image-20210512102626440" style="float: left;" />
+![[Pasted image 20240403185307.png]]
 
 **任意取一行，如：drwxr-xr-x  2 root root 4096 2009-01-14 17:34 bin**
 
@@ -160,7 +160,7 @@ int socket(int domain,int type,int protocol);
 
      **面向连接的套接字类似于传送带**
 
-    ![传送带图片素材_免费传送带PNG设计图片大全_图精灵](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzwO3Qhkco3js6miYcXs9Z1Ng0zvNsfcHFkw&usqp=CAU)
+    ![[Pasted image 20240403185328.png]]
 
     有如下特点
 
@@ -232,7 +232,7 @@ int socket(int domain,int type,int protocol);
 
   如下图所示：
 
-  ![img](https://cdn.jsdelivr.net/gh/luogou/cloudimg/data/20210615153016.png)
+  ![[Pasted image 20240403185354.png]]
 
   I/O缓冲有以下特点：
 
@@ -378,7 +378,7 @@ int socket(int domain,int type,int protocol);
 
 preactor模型如下图所示：
 
-<img src="https://cdn.jsdelivr.net/gh/luogou/cloudimg/data/202203290949372.png" alt="img" style="zoom:50%;float:left" />
+![[Pasted image 20240403185419.png]]
 
 工作流程如下：
 
@@ -464,7 +464,7 @@ IO层面，就不一样。要记住，IO操作只有两个阶段：
 
 对于数据准备阶段，是阻塞和非阻塞的层面。对于数据从内核转移到用户空间，就是同步异步阶段。
 
-<img src="https://cdn.jsdelivr.net/gh/luogou/cloudimg/data/202203221656865.png" alt="img" style="zoom: 80%; float: left;" />
+![[Pasted image 20240403185440.png]]
 
 阻塞和非阻塞的区别在于内核数据还没准备好时，用户进程在一阶段数据准备时是否会阻塞；
 
@@ -480,7 +480,7 @@ IO层面，就不一样。要记住，IO操作只有两个阶段：
 
 计算机如何收发消息？计算机需要连接上互联网。如何连接互联网？硬件层面我们可以拉一根网线，软件层面需要套接字。通过套接字连接到互联网，进而可以和互利网上的所有主机进行通信。
 
-<img src="https://cdn.jsdelivr.net/gh/luogou/cloudimg/data/20210824151934.png" alt="img" style="zoom:67%;" />
+![[Pasted image 20240403185455.png]]
 
 ***socket* 其实就是操作系统提供给程序员操作「网络协议栈」的接口，说人话就是，你能通过*socket* 的接口，来控制协议找工作，从而实现网络通信**
 
@@ -488,7 +488,8 @@ IO层面，就不一样。要记住，IO操作只有两个阶段：
 
 # C++网络通信中send和receive的为什么会阻塞
 
-<img src="https://cdn.jsdelivr.net/gh/luogou/cloudimg/data/202203221702388.png" alt="image-20210915102717398" style="zoom:67%;float:left" />
+![[Pasted image 20240403185519.png]]
+
 
 使用tcp协议进行通讯的双方，都各自有一个发送缓冲区和一个接收缓冲区。而缓冲区是有大小的，因此发生阻塞的本质原因是缓冲区满了，别的字节流消息无法进入缓冲区。
 
@@ -633,7 +634,7 @@ IO多路复用是指内核一旦发现进程指定的一个或者多个IO条件�
 
 > epoll就是解耦了select的模型：
 >
-> <img src="https://cdn.jsdelivr.net/gh/luogou/cloudimg/data/202203231333124.png" alt="img" style="zoom: 20%;float:left" />
+> ![[Pasted image 20240403185549.png]]
 
 > 设想一个场景：有100万用户同时与一个进程保持着TCP连接，而每一时刻只有几十个或几百个TCP连接是活跃的(接收TCP包)，也就是说在每一时刻进程只需要处理这100万连接中的一小部分连接。那么，如何才能高效的处理这种场景呢？进程是否在每次询问操作系统收集有事件发生的TCP连接时，把这100万个连接告诉操作系统，然后由操作系统找出其中有事件发生的几百个连接呢？实际上，在Linux2.4版本以前，那时的select或者poll事件驱动方式是这样做的.
 >
@@ -755,7 +756,7 @@ tee( )函数
 
 如果服务端要提供文件传输的功能，我们能想到的最简单的方式是：将磁盘上的文件读取出来，然后通过网络协议发送给客户端。传统 I/O 的工作方式是，数据读取和写入是从用户空间到内核空间的复制，而内核空间的数据是通过操作系统层面的 I/O 接口从磁盘读取或写入。其过程如下图所示：
 
-<img src="https://cdn.jsdelivr.net/gh/luogou/cloudimg/data/202203231452388.webp" alt="img" style="zoom: 50%;Float:left" />
+![[Pasted image 20240403185625.png]]
 
 可以想想一下这个过程。服务器读从磁盘读取文件的时候，发生一次系统调用，产生用户态到内核态的转换，将磁盘文件拷贝到内核的内存中。然后将位于内核内存中的文件数据拷贝到用户的缓冲区中。用户应用缓冲区需要将这些数据发送到socket缓冲区中，进行一次用户态到内核态的转换，复制这些数据。此时这些数据在内核的socket的缓冲区中，在进行一次拷贝放到网卡上发送出去。
 
@@ -824,7 +825,7 @@ SYN队列存储了收到SYN包的连接(对应内核代码的结构体： struct
 
 # 调用close()在哪一步？
 
-<img src="https://cdn.jsdelivr.net/gh/luogou/cloudimg/data/202202282238507.png" alt="image" style="float: left; zoom: 50%;" />
+![[Pasted image 20240403185643.png]]
 
 首先注意EOF这个东西。当客户端调用close主动断开时，会在FIN报文后面放入一个文件结束符EOF，会放在服务器端读缓存队列的最后，当接收到EOF时，服务器需要处理这种异常情况，表示以后不会有任何数据到达。因此服务器会返回一个ACK确认报文然后进入closed_wait状态
 
@@ -867,7 +868,7 @@ Linux下的信号采用的异步处理机制，信号处理函数和当前进程
 
 信号处理机制如下图：
 
-![图片](https://cdn.jsdelivr.net/gh/luogou/cloudimg/data/202203051517351.jpeg)
+![[Pasted image 20240403185659.png]]
 
 - 信号的接收
 
@@ -1186,12 +1187,7 @@ Linux每个进程都会有一个非负整数表示的唯一进程 ID，简称 pi
 
 就进程间的关系来说，session 由一个或多个进程组组成。我们可以通过下图来理解进程、进程组和 session 之间的关系：
 
-<img src="https://cdn.jsdelivr.net/gh/luogou/cloudimg/data/952033-20200103182042686-2100862807.png" alt="img" style="float: left;" />
-
-
-
-
-
+![[Pasted image 20240403185140.png]]
 # 守护进程
 
 **概念：**
