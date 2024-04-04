@@ -504,7 +504,9 @@ private static int nextHashCode() {
 
 ```
 因为`ThreadLocal`中哈希码相关的成员都是静态`static`关键字修饰的原因，每次创建`ThreadLocal`对象时，都会在对象初始化的时候调用一次自增方法为`ThreadLocal`对象生成一个哈希值。
-而`HASH_INCREMENT=0x61c88647`是因为`0x61c88647`为斐波那契散列乘数，通过它散列(hash)出来的结果分布会比较均匀，可以很大程度上避免hash冲突。  
+而`HASH_INCREMENT=0x61c88647`是因为`0x61c88647`为斐波那契散列乘数，通过它散列(hash)出来的结果分布会比较均匀，可以很大程度上避免hash冲突。 
+
+**哈希值是自增的，所以ThreadLocal对象的hash值不可能相同。**
 
 **ThreadLocalMap使用的是开放定址法，如果hashcode对应位置有元素则遍历寻找下一个空位置**
 **当key为空，value不为空时，插入之前先将value清理了。**
