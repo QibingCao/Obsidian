@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DISK/ThreadLocal/ThreadLocal 总结.md",
+                "file": "DISK/ThreadLocal/ThreadLocal源码分析 by 竹子.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DISK/ThreadLocal/ThreadLocal 总结.md"
+                "file": "DISK/ThreadLocal/ThreadLocal源码分析 by 竹子.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DISK/ThreadLocal/ThreadLocal 总结.md",
+                "file": "DISK/ThreadLocal/ThreadLocal源码分析 by 竹子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DISK/ThreadLocal/ThreadLocal 总结.md",
+                "file": "DISK/ThreadLocal/ThreadLocal源码分析 by 竹子.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,10 +177,12 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "ba05686e9ec36e3e",
+  "active": "18ad5d21d02cd769",
   "lastOpenFiles": [
-    "DISK/ThreadLocal/ThreadLocal源码分析 by 竹子.md",
     "DISK/ThreadLocal/ThreadLocal 总结.md",
+    "DISK/ThreadLocal/ThreadLocal源码分析 by 竹子.md",
+    "Utils/attachments/Pasted image 20240404213700.png",
+    "Utils/attachments/Pasted image 20240404213609.png",
     "DISK/ThreadLocal",
     "Utils/attachments/Pasted image 20240404212216.png",
     "DISK/八股/JAVA/java基础.md",
@@ -195,9 +196,7 @@
     "Utils/attachments/Pasted image 20240404154106.png",
     "Utils/attachments/Pasted image 20240404153452.png",
     "Utils/attachments/Pasted image 20240404152909.png",
-    "Utils/attachments/Pasted image 20240404143726.png",
     "DISK/leetcode/145 144 94 二叉树的非递归遍历.md",
-    "Utils/attachments/Pasted image 20240403185659.png",
     "README.md",
     "DISK/Epoll/EPOLL：TCP服务端处理多个客户端请求.md",
     "DISK/Epoll/Epoll使用 by 佚名.md",
