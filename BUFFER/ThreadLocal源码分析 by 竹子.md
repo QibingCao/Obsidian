@@ -4,6 +4,7 @@
 创建日期: 2024-04-04
 修改日期: 2024-04-04
 ---
+[javaguide分析](https://javaguide.cn/java/concurrent/threadlocal.html)
 # 引言
 满足以下全部三个条件就会发生线程安全问题：
 - 多线程
