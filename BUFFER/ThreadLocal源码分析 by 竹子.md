@@ -504,7 +504,8 @@ private static int nextHashCode() {
 因为`ThreadLocal`中哈希码相关的成员都是静态`static`关键字修饰的原因，每次创建`ThreadLocal`对象时，都会在对象初始化的时候调用一次自增方法为`ThreadLocal`对象生成一个哈希值。
 而`HASH_INCREMENT=0x61c88647`是因为`0x61c88647`为斐波那契散列乘数，通过它散列(hash)出来的结果分布会比较均匀，可以很大程度上避免hash冲突。  
 
-ThreadLocalMap使用的是开放定址法，如果hashcode对应位置有元素则遍历寻找下一个空位置。
+**ThreadLocalMap使用的是开放定址法，如果hashcode对应位置有元素则遍历寻找下一个空位置**
+**当key为空，value不为空时，插入之前先将value清理了。**
 ![[Pasted image 20240404160244.png]]
 ## ThreadLocalMap总结
 经过如上分析我们能够得到一个结论：每条线程的`threadlocals`都会在内部维护独立`table`数组，而每个`ThreadLocal`对象在不同的线程`table`中位置都是相同的。对于同一条线程而言，不同的`ThreadLocal`变量副本都会被封装成一个个的`Entry`对象存储在自己内部的`table`中。
@@ -517,11 +518,12 @@ ThreadLocal的变量并不是每条线程拷贝克隆一个对象，而是每个
 ## 5.3 ThreadLocal在线程池情况下可能会产生脏数据
 因为线程池会复用线程，而线程上一个执行的任务对ThreadLocal进行`set()`操作后，在线程`run()`结束后没有调用`remove()`移除变量副本，下个`Runnable`任务如果直接对ThreadLocal进行`get()`操作则可能读到脏数据。
 ## 5.4 ThreadLocal可能会造成内存泄露
-![[Pasted image 20240404161024.png]]
+
 ThreadLocalMap中存储变量副本时，Entry对象使用ThreadLocal的弱引用作为key。
 如果一个ThreadLocal对象没有外部强引用来指向它，在堆内存不足时GC机制会回收掉这些弱引用类型的**key**（注意只回收key），则会造成`ThreadLocalMap<null,Object>`的情况。
 同时线程也迟迟不结束(比如线程池中的常驻线程)，那么这些`key=null`的value值则会一直存在一条强引用链：
 `Thread.threadlocals(Reference)成员变量 -> ThreadLocalMap对象 -> Entry对象 -> Object value对象`
+![[Pasted image 20240404161024.png]]
 导致GC无法回收造成内存泄露，这个Object就是泄露的对象。
 ### 解决内存泄漏
 我们可以在使用完ThreadLocal手动调用`ThreadLocal.remove()`方法清空ThreadLocal变量副本即可解决。
