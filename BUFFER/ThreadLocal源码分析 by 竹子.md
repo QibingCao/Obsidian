@@ -509,6 +509,15 @@ private static int nextHashCode() {
 **ThreadLocalMap使用的是开放定址法，如果hashcode对应位置有元素则遍历寻找下一个空位置**
 **当key为空，value不为空时，插入之前先将value清理了。**
 ![[Pasted image 20240404160244.png]]
+
+---
+## ThreadLocal.remove --重要
+ThreadLocal对象外部的ref是static final的，会随着调用者的生命周期而结束。在ref消失时，此时指向堆中ThreadLocal的引用就只剩下entry的弱引用，gc时才会被回收掉。
+在调用结束主动remove时，会将包含此对象的entry主动断开连接，并将Map中其余entry<null, Object>的enrty也一并清空。
+https://blog.csdn.net/cao1315020626/article/details/103788601
+---
+
+
 ## ThreadLocalMap总结
 经过如上分析我们能够得到一个结论：每条线程的`threadlocals`都会在内部维护独立`table`数组，而每个`ThreadLocal`对象在不同的线程`table`中位置都是相同的。对于同一条线程而言，不同的`ThreadLocal`变量副本都会被封装成一个个的`Entry`对象存储在自己内部的`table`中。
 # 5. ThreadLocal注意事项
