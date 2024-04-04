@@ -512,8 +512,12 @@ private static int nextHashCode() {
 
 ---
 ## ThreadLocal.remove --重要
-ThreadLocal对象外部的ref是static final的，会随着调用者的生命周期而结束。在ref消失时，此时指向堆中ThreadLocal的引用就只剩下entry的弱引用，gc时才会被回收掉。
-在调用结束主动remove时，会将包含此对象的entry主动断开连接，并将Map中其余entry<null, Object>的enrty也一并清空。
+ThreadLocal对象外部的引用是static final的，会随着调用者的生命周期而结束。
+在引用消失时，此时指向堆中ThreadLocal的引用就只剩下entry的弱引用，gc时才会被回收掉。
+在调用结束主动remove时，会将包含此对象的entry主动断开引用，并将Map中其余entry<null, Object>的enrty也一并断开引用。
+做个实验
+- 同一个对象中不同方法里调用threadlocal
+- 同一个对象中不同的子对象调用
 https://blog.csdn.net/cao1315020626/article/details/103788601
 ---
 
