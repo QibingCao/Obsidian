@@ -13,10 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DISK/leetcode/145 144 94 二叉树的非递归遍历.md",
+                "file": "DISK/Epoll/Epoll 总结.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "39a36916f2708922",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BUFFER/ThreadLocal源码分析 by 竹子.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bacfeb45c4510c1d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,10 +90,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "144",
+                "query": "epoll",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
               }
@@ -85,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DISK/leetcode/145 144 94 二叉树的非递归遍历.md"
+                "file": "DISK/Epoll/Epoll 总结.md"
               }
             }
           },
@@ -103,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DISK/leetcode/145 144 94 二叉树的非递归遍历.md",
+                "file": "DISK/Epoll/Epoll 总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DISK/leetcode/145 144 94 二叉树的非递归遍历.md",
+                "file": "DISK/Epoll/Epoll 总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,8 +165,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,9 +184,52 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "bd01d7a91324071c",
+  "floating": {
+    "id": "06dd4852c6092c2a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3b572cd4d81d1199",
+        "type": "window",
+        "children": [
+          {
+            "id": "42c4f9c9f5c8dfb8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40a5af5052cf4f79",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "BUFFER/ThreadLocal源码分析 by 竹子.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 860,
+        "y": 0,
+        "width": 847,
+        "height": 1019,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7d450665c1b03fb7",
   "lastOpenFiles": [
+    "BUFFER/ThreadLocal源码分析 by 竹子.md",
+    "Utils/attachments/Pasted image 20240404153452.png",
+    "Utils/attachments/Pasted image 20240404152909.png",
+    "DISK/Epoll/Epoll 总结.md",
+    "Utils/attachments/Pasted image 20240404143726.png",
     "BUFFER/linux服务器.md",
+    "DISK/leetcode/145 144 94 二叉树的非递归遍历.md",
     "Utils/attachments/Pasted image 20240403185659.png",
     "Utils/attachments/Pasted image 20240403185643.png",
     "Utils/attachments/Pasted image 20240403185625.png",
@@ -175,9 +237,6 @@
     "Utils/attachments/Pasted image 20240403185519.png",
     "Utils/attachments/Pasted image 20240403185455.png",
     "Utils/attachments/Pasted image 20240403185440.png",
-    "Utils/attachments/Pasted image 20240403185419.png",
-    "Utils/attachments/Pasted image 20240403185354.png",
-    "Utils/attachments/Pasted image 20240403185328.png",
     "README.md",
     "DISK/Epoll/EPOLL：TCP服务端处理多个客户端请求.md",
     "DISK/Epoll/Epoll使用 by 佚名.md",
@@ -201,9 +260,6 @@
     "Utils",
     "DISK/在线实验平台/在线实验平台.md",
     "DISK/在线实验平台/OJ.md",
-    "DISK/Redis 点评/Redis.md",
-    "Utils/template/Insert Callouts.md",
-    "Utils/Dev Utils/Java/Java位运算符.md",
     "DISK",
     "Utils/Templates by Chris",
     "BUFFER",

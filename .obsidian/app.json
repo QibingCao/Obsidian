@@ -2,5 +2,5 @@
   "attachmentFolderPath": "Utils/attachments",
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "readableLineLength": false
+  "readableLineLength": true
 }
