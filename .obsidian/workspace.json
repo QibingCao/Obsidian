@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "be95558b784d0142",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BUFFER/ThreadLocal 总结.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5faec7e204eaf570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BUFFER/ThreadLocal 清理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BUFFER/八股List.md"
+                "file": "BUFFER/ThreadLocal 清理.md"
               }
             }
           },
@@ -116,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUFFER/八股List.md",
+                "file": "BUFFER/ThreadLocal 清理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUFFER/八股List.md",
+                "file": "BUFFER/ThreadLocal 清理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 451.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,14 +202,16 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "fa88aa552ce5ae36",
+  "active": "bd01d7a91324071c",
   "lastOpenFiles": [
     "BUFFER/ThreadLocal 总结.md",
+    "BUFFER/ThreadLocal 清理.md",
+    "DISK/ThreadLocal/ThreadLocal源码分析 by 竹子.md",
+    "BUFFER/Thread Local八股 by 牛客.md",
     "BUFFER/八股List.md",
     "Utils/attachments/Pasted image 20240404222813.png",
     "Utils/attachments/Pasted image 20240404222548.png",
     "BUFFER/linux服务器.md",
-    "DISK/ThreadLocal/ThreadLocal源码分析 by 竹子.md",
     "Utils/attachments/Pasted image 20240404213700.png",
     "Utils/attachments/Pasted image 20240404213609.png",
     "DISK/ThreadLocal",
@@ -217,8 +243,6 @@
     "Utils/Templates by Chris/Books (Templates Version).md",
     "Utils/Templates by Chris/Books (Templater Basic Version).md",
     "Utils/template/加入BUFFER.md",
-    "BUFFER/tset.md",
-    "DISK/在线实验平台/无标题文档.md",
     "Utils",
     "DISK",
     "Utils/Templates by Chris",
