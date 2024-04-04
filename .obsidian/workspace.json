@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "30c3a5bc4d580a50",
+        "id": "266b3839fc1f4580",
         "type": "tabs",
         "children": [
           {
-            "id": "80d6a59719124088",
+            "id": "18ad5d21d02cd769",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BUFFER/ThreadLocal源码分析 by 竹子.md",
+                "file": "DISK/ThreadLocal/ThreadLocal源码分析 by 竹子.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba05686e9ec36e3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DISK/ThreadLocal/ThreadLocal 总结.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BUFFER/ThreadLocal源码分析 by 竹子.md"
+                "file": "DISK/ThreadLocal/ThreadLocal 总结.md"
               }
             }
           },
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUFFER/ThreadLocal源码分析 by 竹子.md",
+                "file": "DISK/ThreadLocal/ThreadLocal 总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUFFER/ThreadLocal源码分析 by 竹子.md",
+                "file": "DISK/ThreadLocal/ThreadLocal 总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,9 +178,14 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "80d6a59719124088",
+  "active": "ba05686e9ec36e3e",
   "lastOpenFiles": [
-    "BUFFER/ThreadLocal源码分析 by 竹子.md",
+    "DISK/ThreadLocal/ThreadLocal源码分析 by 竹子.md",
+    "DISK/ThreadLocal/ThreadLocal 总结.md",
+    "DISK/ThreadLocal",
+    "Utils/attachments/Pasted image 20240404212216.png",
+    "DISK/八股/JAVA/java基础.md",
+    "未命名.canvas",
     "BUFFER/linux服务器.md",
     "DISK/Epoll/Epoll 总结.md",
     "Utils/attachments/Pasted image 20240404161143.png",
@@ -180,7 +198,6 @@
     "Utils/attachments/Pasted image 20240404143726.png",
     "DISK/leetcode/145 144 94 二叉树的非递归遍历.md",
     "Utils/attachments/Pasted image 20240403185659.png",
-    "Utils/attachments/Pasted image 20240403185643.png",
     "README.md",
     "DISK/Epoll/EPOLL：TCP服务端处理多个客户端请求.md",
     "DISK/Epoll/Epoll使用 by 佚名.md",
@@ -202,16 +219,12 @@
     "BUFFER/tset.md",
     "DISK/在线实验平台/无标题文档.md",
     "Utils",
-    "DISK/在线实验平台/在线实验平台.md",
-    "DISK/在线实验平台/OJ.md",
     "DISK",
     "Utils/Templates by Chris",
     "BUFFER",
     "Utils/template",
     "Utils/Dev Utils/Java",
     "Utils/attachments",
-    "DISK/八股/MySQL",
-    "Utils/Dev Utils/Java/Java Collections",
-    "未命名.canvas"
+    "DISK/八股/MySQL"
   ]
 }

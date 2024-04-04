@@ -540,5 +540,8 @@ ThreadLocalMap中存储变量副本时，Entry对象使用ThreadLocal的弱引�
 `Thread.threadlocals(Reference)成员变量 -> ThreadLocalMap对象 -> Entry对象 -> Object value对象`
 ![[Pasted image 20240404161024.png]]
 导致GC无法回收造成内存泄露，这个Object就是泄露的对象。
+
+最好在使用前后都要remove一下。
 ### 解决内存泄漏
 我们可以在使用完ThreadLocal手动调用`ThreadLocal.remove()`方法清空ThreadLocal变量副本即可解决。
+
