@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa88aa552ce5ae36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BUFFER/八股List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BUFFER/ThreadLocal 总结.md"
+                "file": "BUFFER/八股List.md"
               }
             }
           },
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUFFER/ThreadLocal 总结.md",
+                "file": "BUFFER/八股List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUFFER/ThreadLocal 总结.md",
+                "file": "BUFFER/八股List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -165,25 +178,26 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "5dd19a0a85a3b9d6",
+  "active": "fa88aa552ce5ae36",
   "lastOpenFiles": [
-    "DISK/ThreadLocal/ThreadLocal源码分析 by 竹子.md",
     "BUFFER/ThreadLocal 总结.md",
+    "BUFFER/八股List.md",
+    "Utils/attachments/Pasted image 20240404222813.png",
+    "Utils/attachments/Pasted image 20240404222548.png",
+    "BUFFER/linux服务器.md",
+    "DISK/ThreadLocal/ThreadLocal源码分析 by 竹子.md",
     "Utils/attachments/Pasted image 20240404213700.png",
     "Utils/attachments/Pasted image 20240404213609.png",
     "DISK/ThreadLocal",
     "Utils/attachments/Pasted image 20240404212216.png",
     "DISK/八股/JAVA/java基础.md",
     "未命名.canvas",
-    "BUFFER/linux服务器.md",
     "DISK/Epoll/Epoll 总结.md",
     "Utils/attachments/Pasted image 20240404161143.png",
     "Utils/attachments/Pasted image 20240404161024.png",
     "Utils/attachments/Pasted image 20240404160244.png",
     "Utils/attachments/Pasted image 20240404154527.png",
     "Utils/attachments/Pasted image 20240404154106.png",
-    "Utils/attachments/Pasted image 20240404153452.png",
-    "Utils/attachments/Pasted image 20240404152909.png",
     "DISK/leetcode/145 144 94 二叉树的非递归遍历.md",
     "README.md",
     "DISK/Epoll/EPOLL：TCP服务端处理多个客户端请求.md",
