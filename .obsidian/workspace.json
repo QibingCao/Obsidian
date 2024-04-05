@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "43e536337fa42995",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BUFFER/138 随机链表的复制.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BUFFER/ThreadLocal 清理.md"
+                "file": "BUFFER/138 随机链表的复制.md"
               }
             }
           },
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUFFER/ThreadLocal 清理.md",
+                "file": "BUFFER/138 随机链表的复制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUFFER/ThreadLocal 清理.md",
+                "file": "BUFFER/138 随机链表的复制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,9 +214,10 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "bd01d7a91324071c",
+  "active": "43e536337fa42995",
   "lastOpenFiles": [
     "BUFFER/ThreadLocal 总结.md",
+    "BUFFER/138 随机链表的复制.md",
     "BUFFER/ThreadLocal 清理.md",
     "DISK/ThreadLocal/ThreadLocal源码分析 by 竹子.md",
     "BUFFER/Thread Local八股 by 牛客.md",
@@ -242,7 +255,6 @@
     "Utils/Templates by Chris/Capture.md",
     "Utils/Templates by Chris/Books (Templates Version).md",
     "Utils/Templates by Chris/Books (Templater Basic Version).md",
-    "Utils/template/加入BUFFER.md",
     "Utils",
     "DISK",
     "Utils/Templates by Chris",
