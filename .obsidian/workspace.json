@@ -37,38 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BUFFER/tinyRPC/全局config实现.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7eb64edfa436c046",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BUFFER/CASPP/datalab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cddbeaa43a285313",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BUFFER/左值 右值.md",
+                "file": "DISK/Epoll/Epoll使用 by 佚名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "异或",
+                "query": "惊群",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BUFFER/左值 右值.md"
+                "file": "DISK/Epoll/Epoll使用 by 佚名.md"
               }
             }
           },
@@ -152,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUFFER/左值 右值.md",
+                "file": "DISK/Epoll/Epoll使用 by 佚名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUFFER/左值 右值.md",
+                "file": "DISK/Epoll/Epoll使用 by 佚名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,13 +189,17 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "cddbeaa43a285313",
+  "active": "2feea7da12596cc6",
   "lastOpenFiles": [
+    "DISK/Epoll/epoll 惊群问题.md",
+    "BUFFER/tinyRPC/全局config实现.md",
+    "DISK/Epoll/Epoll源码 by 竹子.md",
+    "DISK/Epoll/网络编程 by HBJ.md",
+    "DISK/Epoll/Epoll 总结.md",
     "BUFFER/CASPP/datalab.md",
     "BUFFER/左值 右值.md",
     "BUFFER/CASPP/环境搭建.md",
     "DISK/Epoll/Epoll使用 by 佚名.md",
-    "DISK/Epoll/网络编程 by HBJ.md",
     "Utils/Dev Utils/Java/Java位运算符.md",
     "DISK/leetcode/手写排序.md",
     "BUFFER/CASPP",
@@ -227,7 +207,6 @@
     "BUFFER/tinyRPC",
     "Utils/attachments/Pasted image 20240412212013.png",
     "DISK/leetcode/经验总结.md",
-    "BUFFER/tinyRPC/全局config实现.md",
     "DISK/leetcode/原地算法.md",
     "DISK/leetcode/41 缺失的第一个正数 LCR120 寻找文件副本.md",
     "DISK/leetcode/15 三数之和.md",
@@ -241,9 +220,6 @@
     "DISK/CSAPP/第一次作业.md",
     "DISK/八股/JAVA/JMM Volatile.md",
     "BUFFER/138 随机链表的复制.md",
-    "BUFFER/ThreadLocal 总结.md",
-    "BUFFER/ThreadLocal 清理.md",
-    "DISK/ThreadLocal/ThreadLocal源码分析 by 竹子.md",
     "Utils/attachments/Pasted image 20240404222813.png",
     "Utils/attachments/Pasted image 20240404222548.png",
     "Utils/attachments/Pasted image 20240404213700.png",
