@@ -4,6 +4,7 @@
 修改日期: 2024-04-01
 ---
 [原文链接](https://subingwen.cn/linux/epoll/index.html)
+
 # 1. 概述
 epoll 全称 eventpoll，是 linux 内核实现IO多路转接/复用（IO multiplexing）的一个实现。IO多路转接的意思是在一个操作里同时监听多个输入输出源，在其中一个或多个输入输出源可用的时候返回，然后对其的进行读写操作。epoll是select和poll的升级版，相较于这两个前辈，epoll改进了工作方式，因此它更加高效。
 
