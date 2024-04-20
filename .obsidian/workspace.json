@@ -182,7 +182,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -201,8 +202,9 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "6e4638e2c75de565",
+  "active": "5dd19a0a85a3b9d6",
   "lastOpenFiles": [
+    "BUFFER/CS61B",
     "DISK/Epoll/Epoll使用 by 佚名.md",
     "BUFFER/学习CS的我到底在学什么.md",
     "DISK/Epoll/epoll 惊群问题.md",
@@ -231,7 +233,6 @@
     "BUFFER/二分算法.md",
     "DISK/CSAPP/第二次作业.md",
     "DISK/CSAPP/第一次作业.md",
-    "DISK/八股/JAVA/JMM Volatile.md",
     "Utils/attachments/Pasted image 20240404222813.png",
     "Utils/attachments/Pasted image 20240404222548.png",
     "Utils/attachments/Pasted image 20240404213700.png",
