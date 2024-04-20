@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e4638e2c75de565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BUFFER/学习CS的我到底在学什么.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DISK/Epoll/Epoll使用 by 佚名.md"
+                "file": "BUFFER/学习CS的我到底在学什么.md"
               }
             }
           },
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DISK/Epoll/Epoll使用 by 佚名.md",
+                "file": "BUFFER/学习CS的我到底在学什么.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DISK/Epoll/Epoll使用 by 佚名.md",
+                "file": "BUFFER/学习CS的我到底在学什么.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,8 +201,10 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "2feea7da12596cc6",
+  "active": "6e4638e2c75de565",
   "lastOpenFiles": [
+    "DISK/Epoll/Epoll使用 by 佚名.md",
+    "BUFFER/学习CS的我到底在学什么.md",
     "DISK/Epoll/epoll 惊群问题.md",
     "BUFFER/tinyRPC/全局config实现.md",
     "DISK/Epoll/Epoll源码 by 竹子.md",
@@ -199,7 +213,6 @@
     "BUFFER/CASPP/datalab.md",
     "BUFFER/左值 右值.md",
     "BUFFER/CASPP/环境搭建.md",
-    "DISK/Epoll/Epoll使用 by 佚名.md",
     "Utils/Dev Utils/Java/Java位运算符.md",
     "DISK/leetcode/手写排序.md",
     "BUFFER/CASPP",
@@ -219,7 +232,6 @@
     "DISK/CSAPP/第二次作业.md",
     "DISK/CSAPP/第一次作业.md",
     "DISK/八股/JAVA/JMM Volatile.md",
-    "BUFFER/138 随机链表的复制.md",
     "Utils/attachments/Pasted image 20240404222813.png",
     "Utils/attachments/Pasted image 20240404222548.png",
     "Utils/attachments/Pasted image 20240404213700.png",
