@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BUFFER/Git 哈希前缀匹配.md",
+                "file": "DISK/Epoll/Epoll使用 by 佚名.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BUFFER/Git 哈希前缀匹配.md"
+                "file": "DISK/Epoll/Epoll使用 by 佚名.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUFFER/Git 哈希前缀匹配.md",
+                "file": "DISK/Epoll/Epoll使用 by 佚名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUFFER/Git 哈希前缀匹配.md",
+                "file": "DISK/Epoll/Epoll使用 by 佚名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,10 +226,47 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
+  "floating": {
+    "id": "acc627cf24b6183e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a06e51600ed20054",
+        "type": "window",
+        "children": [
+          {
+            "id": "eba315a84146a38e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a16d89034d9079e4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "BUFFER/Git 哈希前缀匹配.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1721,
+        "y": 0,
+        "width": 1025,
+        "height": 801,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "4ffc95f5fa3c7ea6",
   "lastOpenFiles": [
-    "BUFFER/1017 负二进制转换.md",
     "BUFFER/Git 哈希前缀匹配.md",
+    "BUFFER/1017 负二进制转换.md",
     "BUFFER/CASPP/datalab.md",
     "BUFFER/学习CS的我到底在学什么.md",
     "BUFFER/Utils.md",
