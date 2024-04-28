@@ -115,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 200
   },
   "right": {
     "id": "a8bddfc9c6119260",
@@ -211,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,7 +263,7 @@
       }
     ]
   },
-  "active": "4ffc95f5fa3c7ea6",
+  "active": "5dd19a0a85a3b9d6",
   "lastOpenFiles": [
     "BUFFER/Git 哈希前缀匹配.md",
     "BUFFER/1017 负二进制转换.md",
