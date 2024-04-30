@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae61ad61a8891657",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BUFFER/词法分析课堂笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DISK/Epoll/Epoll使用 by 佚名.md"
+                "file": "BUFFER/词法分析课堂笔记.md"
               }
             }
           },
@@ -164,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DISK/Epoll/Epoll使用 by 佚名.md",
+                "file": "BUFFER/词法分析课堂笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DISK/Epoll/Epoll使用 by 佚名.md",
+                "file": "BUFFER/词法分析课堂笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,24 +266,56 @@
           }
         ],
         "direction": "vertical",
-        "x": 1721,
+        "x": 1720,
         "y": 0,
-        "width": 1025,
+        "width": 1028,
+        "height": 802,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "063f93bf7fabdecd",
+        "type": "window",
+        "children": [
+          {
+            "id": "ee20954ef09b56f0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "61b08f4996e06af1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "BUFFER/词法分析课堂笔记.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 341,
+        "y": 109,
+        "width": 1177,
         "height": 801,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "5dd19a0a85a3b9d6",
+  "active": "61b08f4996e06af1",
   "lastOpenFiles": [
+    "DISK/leetcode/手写排序.md",
+    "BUFFER/词法分析课堂笔记.md",
     "BUFFER/Git 哈希前缀匹配.md",
     "BUFFER/1017 负二进制转换.md",
     "BUFFER/CASPP/datalab.md",
     "BUFFER/学习CS的我到底在学什么.md",
     "BUFFER/Utils.md",
     "BUFFER/Principal of Programming Language.md",
-    "DISK/leetcode/手写排序.md",
     "BUFFER/CS61B",
     "DISK/Epoll/Epoll使用 by 佚名.md",
     "DISK/Epoll/epoll 惊群问题.md",
@@ -294,7 +338,6 @@
     "DISK/leetcode/131 分割回文子串.md",
     "DISK/leetcode/链表.md",
     "DISK/leetcode/240 搜索二维矩阵.md",
-    "DISK/leetcode/189 轮转数组.md",
     "Utils/attachments/Pasted image 20240404222813.png",
     "Utils/attachments/Pasted image 20240404222548.png",
     "Utils/attachments/Pasted image 20240404213700.png",
