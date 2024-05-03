@@ -7,7 +7,7 @@
 ## 注意
 我并未按照PA0的要求采用实体Ubuntu系统，而是用最新版支持GUI的wsl2 + Ubuntu22.04版本进行替代，途中可能会出现各种bug，希望微软的虚拟化做的真的不错。
 按照教程更新并下载了wsl关于GUI的一些使用软件：
-[教程](https://learn.microsoft.com/en-us/windows/wsl/tutorials/gui-apps)
+[微软官方教程](https://learn.microsoft.com/en-us/windows/wsl/tutorials/gui-apps)
 ## make的使用
 执行文件夹中的`Makefile`文件的内容
 详细教程害得慢慢看
