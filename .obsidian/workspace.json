@@ -11,8 +11,12 @@
             "id": "b21d15d6cd4badee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BUFFER/gitlet 项目总结.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BUFFER/gitlet 项目总结.md"
+              }
             }
           },
           {
@@ -97,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BUFFER/gitlet 项目总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BUFFER/gitlet 项目总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,45 +165,18 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "floating": {
-    "id": "acc627cf24b6183e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a06e51600ed20054",
-        "type": "window",
-        "children": [
-          {
-            "id": "eba315a84146a38e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a16d89034d9079e4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "BUFFER/CS61B/Git 哈希前缀匹配.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1720,
-        "y": 0,
-        "width": 1026,
-        "height": 802,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "b21d15d6cd4badee",
   "lastOpenFiles": [
+    "BUFFER/CS61B/Git 哈希前缀匹配.md",
+    "DISK/leetcode/15 三数之和.md",
+    "DISK/leetcode/145 144 94 二叉树的非递归遍历.md",
+    "DISK/leetcode/131 分割回文子串.md",
+    "DISK/leetcode/链表.md",
+    "DISK/leetcode/101 对称二叉树.md",
+    "DISK/leetcode/回溯法used, 遍历内HashSet的使用.md",
+    "DISK/leetcode/回溯模板.md",
+    "BUFFER/gitlet 项目总结.md",
+    "Utils/attachments/Pasted image 20240503171916.png",
     "BUFFER/随想/学习CS的我到底在学什么.md",
     "BUFFER/C11 特性",
     "BUFFER/随想",
@@ -208,7 +189,6 @@
     "BUFFER/POPL/Principal of Programming Language.md",
     "BUFFER/Utils.md",
     "DISK/八股/linux服务器 面腾宝具.md",
-    "BUFFER/CS61B/Git 哈希前缀匹配.md",
     "Utils/attachments/Pasted image 20240502163821.png",
     "Utils/attachments/Pasted image 20240502163338.png",
     "BUFFER/POPL/词法分析课堂笔记.md",
@@ -223,22 +203,14 @@
     "DISK/Epoll/epoll 惊群问题.md",
     "BUFFER/tinyRPC/全局config实现.md",
     "DISK/Epoll/Epoll源码 by 竹子.md",
-    "DISK/Epoll/网络编程 by HBJ.md",
-    "DISK/Epoll/Epoll 总结.md",
-    "BUFFER/C11 特性/左值 右值.md",
-    "DISK/CSAPP/CASPP lab/环境搭建.md",
-    "Utils/Dev Utils/Java/Java位运算符.md",
     "DISK/CSAPP/CASPP lab",
     "BUFFER/tinyRPC",
     "Utils/attachments/Pasted image 20240412212013.png",
-    "DISK/leetcode/原地算法.md",
-    "DISK/leetcode/41 缺失的第一个正数 LCR120 寻找文件副本.md",
     "Utils/attachments/Pasted image 20240404222813.png",
     "Utils/attachments/Pasted image 20240404222548.png",
     "Utils/attachments/Pasted image 20240404213700.png",
     "Utils/attachments/Pasted image 20240404213609.png",
     "DISK/ThreadLocal",
-    "Utils/attachments/Pasted image 20240404212216.png",
     "未命名.canvas",
     "DISK/Epoll",
     "Utils"
