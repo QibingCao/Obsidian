@@ -11,8 +11,12 @@
             "id": "39943e8b5a67c237",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BUFFER/PA0配置.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BUFFER/PA0配置.md"
+              }
             }
           },
           {
@@ -97,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BUFFER/PA0配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BUFFER/PA0配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +167,9 @@
   },
   "active": "39943e8b5a67c237",
   "lastOpenFiles": [
+    "BUFFER/PA1 配置.md",
+    "BUFFER/PA0配置.md",
+    "BUFFER/().md",
     "DISK/CS61B/gitlet 项目总结.md",
     "DISK/CS61B/Git 哈希前缀匹配.md",
     "DISK/leetcode/15 三数之和.md",
@@ -192,9 +203,6 @@
     "Utils/attachments/Pasted image 20240502162640.png",
     "Utils/attachments/Pasted image 20240502162620.png",
     "DISK/CS61B",
-    "DISK/Epoll/epoll 惊群问题.md",
-    "DISK/tinyRPC/全局config实现.md",
-    "DISK/Epoll/Epoll源码 by 竹子.md",
     "BUFFER/CSAPP/CASPP lab",
     "DISK/tinyRPC",
     "Utils/attachments/Pasted image 20240412212013.png",
