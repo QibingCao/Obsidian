@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3440180f19f94ffd",
+        "id": "26020a95d33c3d66",
         "type": "tabs",
         "children": [
           {
-            "id": "05041901f077af01",
+            "id": "b21d15d6cd4badee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BUFFER/为什么函数内局部变量无法被外部调用者使用.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BUFFER/为什么函数内局部变量无法被外部调用者使用.md"
-              }
+              "state": {}
             }
           },
           {
@@ -103,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUFFER/为什么函数内局部变量无法被外部调用者使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUFFER/为什么函数内局部变量无法被外部调用者使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +175,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "BUFFER/Git 哈希前缀匹配.md",
+                    "file": "BUFFER/CS61B/Git 哈希前缀匹配.md",
                     "mode": "source",
                     "source": false
                   }
@@ -202,40 +194,45 @@
       }
     ]
   },
-  "active": "05041901f077af01",
+  "active": "b21d15d6cd4badee",
   "lastOpenFiles": [
+    "BUFFER/随想/学习CS的我到底在学什么.md",
+    "BUFFER/C11 特性",
+    "BUFFER/随想",
+    "BUFFER/ICS/c语言函数调用的汇编级解释.md",
+    "BUFFER/ICS",
+    "DISK/leetcode/二分算法.md",
+    "BUFFER/POPL",
+    "DISK/ThreadLocal/八股List.md",
+    "Utils/Dev Utils/java Lambda表达式.md",
+    "BUFFER/POPL/Principal of Programming Language.md",
+    "BUFFER/Utils.md",
+    "DISK/八股/linux服务器 面腾宝具.md",
+    "BUFFER/CS61B/Git 哈希前缀匹配.md",
+    "Utils/attachments/Pasted image 20240502163821.png",
     "Utils/attachments/Pasted image 20240502163338.png",
-    "BUFFER/词法分析课堂笔记.md",
+    "BUFFER/POPL/词法分析课堂笔记.md",
     "DISK/Epoll/Epoll使用 by 佚名.md",
-    "BUFFER/1017 负二进制转换.md",
-    "BUFFER/CASPP/datalab.md",
+    "DISK/leetcode/1017 负二进制转换.md",
+    "DISK/CSAPP/CASPP lab/datalab.md",
     "DISK/leetcode/经验总结.md",
-    "BUFFER/为什么函数内局部变量无法被外部调用者使用.md",
     "DISK/leetcode/手写排序.md",
     "Utils/attachments/Pasted image 20240502162640.png",
     "Utils/attachments/Pasted image 20240502162620.png",
-    "BUFFER/Git 哈希前缀匹配.md",
-    "BUFFER/学习CS的我到底在学什么.md",
-    "BUFFER/Utils.md",
-    "BUFFER/Principal of Programming Language.md",
     "BUFFER/CS61B",
     "DISK/Epoll/epoll 惊群问题.md",
     "BUFFER/tinyRPC/全局config实现.md",
     "DISK/Epoll/Epoll源码 by 竹子.md",
     "DISK/Epoll/网络编程 by HBJ.md",
     "DISK/Epoll/Epoll 总结.md",
-    "BUFFER/左值 右值.md",
-    "BUFFER/CASPP/环境搭建.md",
+    "BUFFER/C11 特性/左值 右值.md",
+    "DISK/CSAPP/CASPP lab/环境搭建.md",
     "Utils/Dev Utils/Java/Java位运算符.md",
-    "BUFFER/CASPP",
-    "BUFFER/java Lambda表达式.md",
+    "DISK/CSAPP/CASPP lab",
     "BUFFER/tinyRPC",
     "Utils/attachments/Pasted image 20240412212013.png",
     "DISK/leetcode/原地算法.md",
     "DISK/leetcode/41 缺失的第一个正数 LCR120 寻找文件副本.md",
-    "DISK/leetcode/15 三数之和.md",
-    "DISK/leetcode/145 144 94 二叉树的非递归遍历.md",
-    "DISK/leetcode/131 分割回文子串.md",
     "Utils/attachments/Pasted image 20240404222813.png",
     "Utils/attachments/Pasted image 20240404222548.png",
     "Utils/attachments/Pasted image 20240404213700.png",
@@ -243,13 +240,7 @@
     "DISK/ThreadLocal",
     "Utils/attachments/Pasted image 20240404212216.png",
     "未命名.canvas",
-    "Utils/attachments/Pasted image 20240404161143.png",
-    "Utils/attachments/Pasted image 20240404161024.png",
     "DISK/Epoll",
-    "Utils",
-    "DISK",
-    "Utils/Templates by Chris",
-    "BUFFER",
-    "Utils/template"
+    "Utils"
   ]
 }
