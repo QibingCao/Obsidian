@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b21d15d6cd4badee",
+            "id": "39943e8b5a67c237",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DISK/CS61B/gitlet 项目总结.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DISK/CS61B/gitlet 项目总结.md"
-              }
+              "state": {}
             }
           },
           {
@@ -103,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DISK/CS61B/gitlet 项目总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DISK/CS61B/gitlet 项目总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,8 +157,9 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "5dd19a0a85a3b9d6",
+  "active": "39943e8b5a67c237",
   "lastOpenFiles": [
+    "DISK/CS61B/gitlet 项目总结.md",
     "DISK/CS61B/Git 哈希前缀匹配.md",
     "DISK/leetcode/15 三数之和.md",
     "DISK/leetcode/145 144 94 二叉树的非递归遍历.md",
@@ -175,7 +168,6 @@
     "DISK/leetcode/101 对称二叉树.md",
     "DISK/leetcode/回溯法used, 遍历内HashSet的使用.md",
     "DISK/leetcode/回溯模板.md",
-    "DISK/CS61B/gitlet 项目总结.md",
     "Utils/attachments/Pasted image 20240503171916.png",
     "DISK/随想/学习CS的我到底在学什么.md",
     "DISK/C++11 特性",
