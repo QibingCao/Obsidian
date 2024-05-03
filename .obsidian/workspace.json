@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BUFFER/gitlet 项目总结.md",
+                "file": "DISK/CS61B/gitlet 项目总结.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BUFFER/gitlet 项目总结.md"
+                "file": "DISK/CS61B/gitlet 项目总结.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUFFER/gitlet 项目总结.md",
+                "file": "DISK/CS61B/gitlet 项目总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUFFER/gitlet 项目总结.md",
+                "file": "DISK/CS61B/gitlet 项目总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +165,9 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "b21d15d6cd4badee",
+  "active": "5dd19a0a85a3b9d6",
   "lastOpenFiles": [
-    "BUFFER/CS61B/Git 哈希前缀匹配.md",
+    "DISK/CS61B/Git 哈希前缀匹配.md",
     "DISK/leetcode/15 三数之和.md",
     "DISK/leetcode/145 144 94 二叉树的非递归遍历.md",
     "DISK/leetcode/131 分割回文子串.md",
@@ -175,11 +175,11 @@
     "DISK/leetcode/101 对称二叉树.md",
     "DISK/leetcode/回溯法used, 遍历内HashSet的使用.md",
     "DISK/leetcode/回溯模板.md",
-    "BUFFER/gitlet 项目总结.md",
+    "DISK/CS61B/gitlet 项目总结.md",
     "Utils/attachments/Pasted image 20240503171916.png",
-    "BUFFER/随想/学习CS的我到底在学什么.md",
-    "BUFFER/C11 特性",
-    "BUFFER/随想",
+    "DISK/随想/学习CS的我到底在学什么.md",
+    "DISK/C11 特性",
+    "DISK/随想",
     "BUFFER/ICS/c语言函数调用的汇编级解释.md",
     "BUFFER/ICS",
     "DISK/leetcode/二分算法.md",
@@ -194,17 +194,17 @@
     "BUFFER/POPL/词法分析课堂笔记.md",
     "DISK/Epoll/Epoll使用 by 佚名.md",
     "DISK/leetcode/1017 负二进制转换.md",
-    "DISK/CSAPP/CASPP lab/datalab.md",
+    "BUFFER/CSAPP/CASPP lab/datalab.md",
     "DISK/leetcode/经验总结.md",
     "DISK/leetcode/手写排序.md",
     "Utils/attachments/Pasted image 20240502162640.png",
     "Utils/attachments/Pasted image 20240502162620.png",
-    "BUFFER/CS61B",
+    "DISK/CS61B",
     "DISK/Epoll/epoll 惊群问题.md",
-    "BUFFER/tinyRPC/全局config实现.md",
+    "DISK/tinyRPC/全局config实现.md",
     "DISK/Epoll/Epoll源码 by 竹子.md",
-    "DISK/CSAPP/CASPP lab",
-    "BUFFER/tinyRPC",
+    "BUFFER/CSAPP/CASPP lab",
+    "DISK/tinyRPC",
     "Utils/attachments/Pasted image 20240412212013.png",
     "Utils/attachments/Pasted image 20240404222813.png",
     "Utils/attachments/Pasted image 20240404222548.png",
