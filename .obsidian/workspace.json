@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BUFFER/ICS/PA/PA1/PA1 配置.md",
+                "file": "BUFFER/PA资源路径.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BUFFER/ICS/PA/PA1/PA1 配置.md"
+                "file": "BUFFER/PA资源路径.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUFFER/ICS/PA/PA1/PA1 配置.md",
+                "file": "BUFFER/PA资源路径.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUFFER/ICS/PA/PA1/PA1 配置.md",
+                "file": "BUFFER/PA资源路径.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,10 +167,10 @@
   },
   "active": "46f9c0241d072249",
   "lastOpenFiles": [
-    "BUFFER/ICS/PA/未命名.md",
+    "BUFFER/ICS/PA/PA1/PA1 配置.md",
+    "BUFFER/PA资源路径.md",
     "BUFFER/ICS/PA/PA1",
     "BUFFER/ICS/PA/PA0",
-    "BUFFER/ICS/PA/PA1/PA1 配置.md",
     "BUFFER/ICS/PA",
     "BUFFER/ICS/PA/PA0/PA0 配置.md",
     "BUFFER/().md",
