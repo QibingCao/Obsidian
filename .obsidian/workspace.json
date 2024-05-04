@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BUFFER/ICS/PA/PA1/PA1 配置.md",
+                "file": "DISK/CS61B/gitlet 项目总结.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BUFFER/ICS/PA/PA1/PA1 配置.md"
+                "file": "DISK/CS61B/gitlet 项目总结.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUFFER/ICS/PA/PA1/PA1 配置.md",
+                "file": "DISK/CS61B/gitlet 项目总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUFFER/ICS/PA/PA1/PA1 配置.md",
+                "file": "DISK/CS61B/gitlet 项目总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,8 +167,9 @@
   },
   "active": "46f9c0241d072249",
   "lastOpenFiles": [
-    "BUFFER/ICS/PA/PA资源路径.md",
+    "DISK/CS61B/merge 设计 LCA.md",
     "BUFFER/ICS/PA/PA1/PA1 配置.md",
+    "BUFFER/ICS/PA/PA资源路径.md",
     "BUFFER/ICS/PA/PA1",
     "BUFFER/ICS/PA/PA0",
     "BUFFER/ICS/PA",
