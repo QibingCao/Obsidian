@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BUFFER/POPL/3 抽象语法树AST 课堂.md",
+                "file": "BUFFER/POPL/3.2 类型检查（多态 类型推导）.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BUFFER/POPL/3 抽象语法树AST 课堂.md"
+                "file": "BUFFER/POPL/3.2 类型检查（多态 类型推导）.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUFFER/POPL/3 抽象语法树AST 课堂.md",
+                "file": "BUFFER/POPL/3.2 类型检查（多态 类型推导）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUFFER/POPL/3 抽象语法树AST 课堂.md",
+                "file": "BUFFER/POPL/3.2 类型检查（多态 类型推导）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
         "x": 248,
         "y": 90,
         "width": 1034,
-        "height": 810,
+        "height": 812,
         "maximize": false,
         "zoom": 0
       }
@@ -217,6 +217,7 @@
   },
   "active": "319470af3b81d2d3",
   "lastOpenFiles": [
+    "BUFFER/POPL/3 抽象语法树AST 课堂.md",
     "BUFFER/POPL/2 语法分析 课堂.md",
     "BUFFER/POPL/1 词法分析 课堂.md",
     "BUFFER/POPL/lab/Lab1.md",
@@ -227,7 +228,6 @@
     "BUFFER/POPL/Principal of Programming Language.md",
     "BUFFER/PA代码阅读.md",
     "BUFFER/PA github.md",
-    "BUFFER/POPL/3 抽象语法树AST 课堂.md",
     "Utils/attachments/Pasted image 20240513200911.png",
     "Utils/attachments/Pasted image 20240513200900.png",
     "Utils/attachments/Pasted image 20240513200727.png",
