@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BUFFER/POPL/3.2 类型检查（多态 类型推导）.md",
+                "file": "BUFFER/CSAPP/CASPP lab/datalab.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DISK/leetcode/哈希 乱序数组中统计各个元素出现次数.md",
+                "file": "BUFFER/bomblab.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "惊群",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DISK/leetcode/哈希 乱序数组中统计各个元素出现次数.md"
+                "file": "BUFFER/bomblab.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DISK/leetcode/哈希 乱序数组中统计各个元素出现次数.md",
+                "file": "BUFFER/bomblab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DISK/leetcode/哈希 乱序数组中统计各个元素出现次数.md",
+                "file": "BUFFER/bomblab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,12 +158,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 420.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,60 +177,16 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "floating": {
-    "id": "3c2a721740525488",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7b05117e1cb28599",
-        "type": "window",
-        "children": [
-          {
-            "id": "34c3856cd284c30c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "82ea880963c611cb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "BUFFER/POPL/2 语法分析 课堂.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "c6f10bfd6fded815",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "BUFFER/POPL/3 抽象语法树AST 课堂.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 248,
-        "y": 90,
-        "width": 1034,
-        "height": 812,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "5dd19a0a85a3b9d6",
+  "active": "dfef194c0e8794d8",
   "lastOpenFiles": [
-    "BUFFER/POPL/2 语法分析 课堂.md",
-    "DISK/leetcode/哈希 乱序数组中统计各个元素出现次数.md",
+    "BUFFER/OS/c语言函数调用的汇编级解释.md",
+    "BUFFER/bomblab.md",
+    "BUFFER/CSAPP/CASPP lab/datalab.md",
+    "DISK/八股/JAVA/java基础.md",
     "BUFFER/POPL/3.2 类型检查（多态 类型推导）.md",
+    "BUFFER/POPL/2 语法分析 课堂.md",
+    "DISK/CS61B/gitlet 项目总结.md",
+    "DISK/leetcode/哈希 乱序数组中统计各个元素出现次数.md",
     "BUFFER/POPL/3 抽象语法树AST 课堂.md",
     "BUFFER/POPL/1 词法分析 课堂.md",
     "BUFFER/POPL/lab/Lab1.md",
@@ -255,7 +210,6 @@
     "BUFFER/ICS/PA/PA0/PA0 配置.md",
     "BUFFER/ICS/PA/PA1/PA1 配置.md",
     "BUFFER/ICS/PA/PA资源路径.md",
-    "DISK/CS61B/gitlet 项目总结.md",
     "DISK/CS61B/merge 设计 LCA.md",
     "BUFFER/ICS/PA/PA1",
     "BUFFER/ICS/PA/PA0",
@@ -266,10 +220,6 @@
     "DISK/leetcode/145 144 94 二叉树的非递归遍历.md",
     "DISK/leetcode/131 分割回文子串.md",
     "DISK/leetcode/链表.md",
-    "DISK/leetcode/101 对称二叉树.md",
-    "DISK/leetcode/回溯法used, 遍历内HashSet的使用.md",
-    "DISK/leetcode/回溯模板.md",
-    "DISK/随想/学习CS的我到底在学什么.md",
     "DISK/C++11 特性",
     "DISK/随想",
     "BUFFER/ICS",
