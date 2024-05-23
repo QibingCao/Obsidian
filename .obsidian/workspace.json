@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BUFFER/第三次作业.md",
+                "file": "DISK/CS61B/gitlet 项目总结.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d1c859acb0ea0f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BUFFER/bufbomb.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "42",
+                "query": "牛逼",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BUFFER/第三次作业.md"
+                "file": "BUFFER/bufbomb.md"
               }
             }
           },
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUFFER/第三次作业.md",
+                "file": "BUFFER/bufbomb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUFFER/第三次作业.md",
+                "file": "BUFFER/bufbomb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,10 +189,13 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "8aa37daef64bf7fe",
+  "active": "4d1c859acb0ea0f2",
   "lastOpenFiles": [
-    "DISK/leetcode/41 缺失的第一个正数 LCR120 寻找文件副本 && 442.md",
+    "Utils/attachments/B6E3A24C5F56A69DF646F52EF8BC9CAA.png",
+    "DISK/CS61B/gitlet 项目总结.md",
+    "BUFFER/bufbomb.md",
     "BUFFER/第三次作业.md",
+    "DISK/leetcode/41 缺失的第一个正数 LCR120 寻找文件副本 && 442.md",
     "BUFFER/lab1 & 2 回顾课.md",
     "DISK/leetcode/原地算法.md",
     "BUFFER/CSAPP/第二次作业.md",
@@ -191,7 +206,6 @@
     "DISK/八股/JAVA/java基础.md",
     "BUFFER/POPL/3.2 类型检查（多态 类型推导）.md",
     "BUFFER/POPL/2 语法分析 课堂.md",
-    "DISK/CS61B/gitlet 项目总结.md",
     "DISK/leetcode/哈希 乱序数组中统计各个元素出现次数.md",
     "BUFFER/POPL/3 抽象语法树AST 课堂.md",
     "BUFFER/POPL/1 词法分析 课堂.md",
@@ -215,11 +229,9 @@
     "BUFFER/ICS/PA/PA0/PA0 配置.md",
     "BUFFER/ICS/PA/PA1/PA1 配置.md",
     "BUFFER/ICS/PA/PA资源路径.md",
-    "DISK/CS61B/merge 设计 LCA.md",
     "BUFFER/ICS/PA/PA1",
     "BUFFER/ICS/PA/PA0",
     "BUFFER/ICS/PA",
-    "BUFFER/().md",
     "DISK/C++11 特性",
     "DISK/随想",
     "BUFFER/ICS",
