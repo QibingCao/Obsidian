@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DISK/八股/JAVA/java基础.md",
+                "file": "BUFFER/CSAPP/CASPP lab/bufbomb.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DISK/八股/JAVA/java基础.md"
+                "file": "BUFFER/CSAPP/CASPP lab/bufbomb.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DISK/八股/JAVA/java基础.md",
+                "file": "BUFFER/CSAPP/CASPP lab/bufbomb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DISK/八股/JAVA/java基础.md",
+                "file": "BUFFER/CSAPP/CASPP lab/bufbomb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 706.5
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,13 +189,14 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "225b4b8b69fc3af8",
+  "active": "dfef194c0e8794d8",
   "lastOpenFiles": [
+    "DISK/八股/JAVA/java基础.md",
     "BUFFER/c语言关键字static extern.md",
     "DISK/CS61B/gitlet 项目总结.md",
     "DISK/leetcode/手写排序.md",
     "BUFFER/lab1 & 2 回顾课.md",
-    "BUFFER/bufbomb.md",
+    "BUFFER/CSAPP/CASPP lab/bufbomb.md",
     "Utils/attachments/B6E3A24C5F56A69DF646F52EF8BC9CAA.png",
     "BUFFER/第三次作业.md",
     "DISK/leetcode/41 缺失的第一个正数 LCR120 寻找文件副本 && 442.md",
@@ -205,7 +206,6 @@
     "BUFFER/OS/c语言函数调用的汇编级解释.md",
     "BUFFER/OS/fork如何判断父子进程.md",
     "BUFFER/CSAPP/CASPP lab/datalab.md",
-    "DISK/八股/JAVA/java基础.md",
     "BUFFER/POPL/3.2 类型检查（多态 类型推导）.md",
     "BUFFER/POPL/2 语法分析 课堂.md",
     "DISK/leetcode/哈希 乱序数组中统计各个元素出现次数.md",
