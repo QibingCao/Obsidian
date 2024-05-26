@@ -170,7 +170,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -189,8 +190,9 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "dfef194c0e8794d8",
+  "active": "225b4b8b69fc3af8",
   "lastOpenFiles": [
+    "Utils/attachments/Pasted image 20240526214127.png",
     "DISK/八股/JAVA/java基础.md",
     "BUFFER/c语言关键字static extern.md",
     "DISK/CS61B/gitlet 项目总结.md",
@@ -228,7 +230,6 @@
     "Utils/attachments/Pasted image 20240513194414.png",
     "BUFFER/OS",
     "BUFFER/ICS/PA/PA0/PA0 配置.md",
-    "BUFFER/ICS/PA/PA1/PA1 配置.md",
     "BUFFER/ICS/PA/PA1",
     "BUFFER/ICS/PA/PA0",
     "BUFFER/ICS/PA",

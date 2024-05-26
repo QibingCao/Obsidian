@@ -125,6 +125,7 @@ a1 cc a1 04 08 68 1e 90 04 08 c3 00 a8 b0 ff ff 7c b0 ff ff
 
 
 ## 要点
+![[Pasted image 20240526214127.png]]
 ### level 0
 只需要覆盖getbuf原本的返回值
 ### level 1
