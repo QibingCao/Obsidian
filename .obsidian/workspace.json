@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "160c58fff6bf0084",
+        "id": "1383ecc3f6b03405",
         "type": "tabs",
         "children": [
           {
-            "id": "7c99fa8fb9dd209a",
+            "id": "7e2ea19df8cda073",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DISK/leetcode/41 缺失的第一个正数 LCR120 寻找文件副本 && 442.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8aa37daef64bf7fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DISK/CS61B/gitlet 项目总结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "225b4b8b69fc3af8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BUFFER/CSAPP/CASPP lab/bufbomb.md",
+                "file": "BUFFER/4 程序的中间表示 课堂.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5,
-    "collapsed": true
+    "width": 236.5
   },
   "right": {
     "id": "a8bddfc9c6119260",
@@ -111,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BUFFER/CSAPP/CASPP lab/bufbomb.md"
+                "file": "BUFFER/4 程序的中间表示 课堂.md"
               }
             }
           },
@@ -129,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUFFER/CSAPP/CASPP lab/bufbomb.md",
+                "file": "BUFFER/4 程序的中间表示 课堂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUFFER/CSAPP/CASPP lab/bufbomb.md",
+                "file": "BUFFER/4 程序的中间表示 课堂.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,15 +165,19 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "225b4b8b69fc3af8",
+  "active": "7e2ea19df8cda073",
   "lastOpenFiles": [
+    "BUFFER/POPL/2 语法分析 课堂.md",
+    "BUFFER/POPL/1 词法分析 课堂.md",
+    "BUFFER/POPL/3 抽象语法树AST 课堂.md",
+    "BUFFER/4 程序的中间表示 课堂.md",
+    "BUFFER/CSAPP/CASPP lab/bufbomb.md",
     "Utils/attachments/Pasted image 20240526214127.png",
     "DISK/八股/JAVA/java基础.md",
     "BUFFER/c语言关键字static extern.md",
     "DISK/CS61B/gitlet 项目总结.md",
     "DISK/leetcode/手写排序.md",
     "BUFFER/lab1 & 2 回顾课.md",
-    "BUFFER/CSAPP/CASPP lab/bufbomb.md",
     "Utils/attachments/B6E3A24C5F56A69DF646F52EF8BC9CAA.png",
     "BUFFER/第三次作业.md",
     "DISK/leetcode/41 缺失的第一个正数 LCR120 寻找文件副本 && 442.md",
@@ -210,10 +188,7 @@
     "BUFFER/OS/fork如何判断父子进程.md",
     "BUFFER/CSAPP/CASPP lab/datalab.md",
     "BUFFER/POPL/3.2 类型检查（多态 类型推导）.md",
-    "BUFFER/POPL/2 语法分析 课堂.md",
     "DISK/leetcode/哈希 乱序数组中统计各个元素出现次数.md",
-    "BUFFER/POPL/3 抽象语法树AST 课堂.md",
-    "BUFFER/POPL/1 词法分析 课堂.md",
     "BUFFER/POPL/lab/Lab1.md",
     "BUFFER/POPL/lab",
     "Utils/attachments/b3e69f220c840079f74b0dec7e5819bb.jpg",
@@ -228,7 +203,6 @@
     "BUFFER/identifier规范.md",
     "Utils/attachments/Pasted image 20240513195547.png",
     "Utils/attachments/Pasted image 20240513195518.png",
-    "Utils/attachments/Pasted image 20240513194414.png",
     "BUFFER/OS",
     "BUFFER/ICS/PA/PA0/PA0 配置.md",
     "BUFFER/ICS/PA/PA1",
