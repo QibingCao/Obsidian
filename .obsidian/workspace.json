@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BUFFER/4 程序的中间表示 课堂.md",
+                "file": "BUFFER/POPL/4 程序的中间表示 课堂.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccc97c243c975691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BUFFER/preflab.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BUFFER/4 程序的中间表示 课堂.md"
+                "file": "BUFFER/preflab.md"
               }
             }
           },
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUFFER/4 程序的中间表示 课堂.md",
+                "file": "BUFFER/preflab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUFFER/4 程序的中间表示 课堂.md",
+                "file": "BUFFER/preflab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,13 +178,15 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "7e2ea19df8cda073",
+  "active": "ccc97c243c975691",
   "lastOpenFiles": [
+    "BUFFER/POPL/4 程序的中间表示 课堂.md",
+    "BUFFER/preflab.md",
+    "BUFFER/POPL/3.2 类型检查（多态 类型推导）.md",
+    "BUFFER/CSAPP/CASPP lab/bufbomb.md",
     "BUFFER/POPL/2 语法分析 课堂.md",
     "BUFFER/POPL/1 词法分析 课堂.md",
     "BUFFER/POPL/3 抽象语法树AST 课堂.md",
-    "BUFFER/4 程序的中间表示 课堂.md",
-    "BUFFER/CSAPP/CASPP lab/bufbomb.md",
     "Utils/attachments/Pasted image 20240526214127.png",
     "DISK/八股/JAVA/java基础.md",
     "BUFFER/c语言关键字static extern.md",
@@ -187,7 +202,6 @@
     "BUFFER/OS/c语言函数调用的汇编级解释.md",
     "BUFFER/OS/fork如何判断父子进程.md",
     "BUFFER/CSAPP/CASPP lab/datalab.md",
-    "BUFFER/POPL/3.2 类型检查（多态 类型推导）.md",
     "DISK/leetcode/哈希 乱序数组中统计各个元素出现次数.md",
     "BUFFER/POPL/lab/Lab1.md",
     "BUFFER/POPL/lab",
@@ -204,7 +218,6 @@
     "Utils/attachments/Pasted image 20240513195547.png",
     "Utils/attachments/Pasted image 20240513195518.png",
     "BUFFER/OS",
-    "BUFFER/ICS/PA/PA0/PA0 配置.md",
     "BUFFER/ICS/PA/PA1",
     "BUFFER/ICS/PA/PA0",
     "BUFFER/ICS/PA",
