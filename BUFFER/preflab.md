@@ -15,4 +15,5 @@ src[counterMinusDim].red + src[counter].red + src[counterPlusDim].red;
 
 少任何跳转就完事了！！！！！！
 
+要尽可能的简化运算，尤其是乘除法，这样就是尽可能的使用之前算过的结果，然后加加减减。
 
