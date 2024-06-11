@@ -8,115 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e2ea19df8cda073",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BUFFER/preflab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5160128abda875a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BUFFER/5 课堂.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b1e6f7b919f59f75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BUFFER/AUTOSAR 环境编译.md",
+                "file": "BUFFER/实验 2 基于开源 AUTOSAR 的汽车故障诊断实验.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1f04dc53b50d6e74",
+            "id": "2c6bd1fcb17a6f62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BUFFER/CSAPP/CASPP lab/bufbomb.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d77b31b8c0a11c4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BUFFER/减肥须知.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65b91e8a77972367",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BUFFER/155 最小栈.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccc97c243c975691",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DISK/leetcode/41 缺失的第一个正数 LCR120 寻找文件副本 && 442.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fcca890572ab2c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DISK/八股/JAVA/java基础.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e0e4d79a88669e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BUFFER/C++/侯捷 CPP.md",
+                "file": "BUFFER/实验 1 AutoSar 开源软件环境搭建和编译实验.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "452",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -182,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BUFFER/减肥须知.md"
+                "file": "BUFFER/实验 2 基于开源 AUTOSAR 的汽车故障诊断实验.md"
               }
             }
           },
@@ -200,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUFFER/减肥须知.md",
+                "file": "BUFFER/实验 2 基于开源 AUTOSAR 的汽车故障诊断实验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUFFER/减肥须知.md",
+                "file": "BUFFER/实验 2 基于开源 AUTOSAR 的汽车故障诊断实验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +157,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -261,21 +177,24 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "d77b31b8c0a11c4f",
+  "active": "bd01d7a91324071c",
   "lastOpenFiles": [
+    "BUFFER/实验 1 AutoSar 开源软件环境搭建和编译实验.md",
+    "BUFFER/实验 2 基于开源 AUTOSAR 的汽车故障诊断实验.md",
+    "BUFFER/课堂 寄存器分配.md",
+    "Utils/attachments/Pasted image 20240611211129.png",
+    "Utils/attachments/Pasted image 20240611211000.png",
+    "Utils/attachments/Pasted image 20240611204721.png",
+    "Utils/attachments/Pasted image 20240611204651.png",
+    "BUFFER/CSAPP/CASPP lab/bufbomb.md",
+    "BUFFER/减肥须知.md",
+    "BUFFER/cpp八股.md",
+    "Utils/attachments/Pasted image 20240608222616.png",
     "Utils/attachments/Pasted image 20240606180415.png",
     "Utils/attachments/Pasted image 20240606180003.png",
     "Utils/attachments/Pasted image 20240606175840.png",
     "Utils/attachments/Pasted image 20240606171010.png",
-    "BUFFER/CSAPP/CASPP lab/bufbomb.md",
-    "BUFFER/减肥须知.md",
-    "BUFFER/AUTOSAR 环境编译.md",
     "Utils/attachments/Pasted image 20240605190959.png",
-    "Utils/attachments/Pasted image 20240605190940.png",
-    "BUFFER/实验二 wireshark.md",
-    "Utils/attachments/Pasted image 20240605173237.png",
-    "Utils/attachments/Pasted image 20240605173133.png",
-    "Utils/attachments/Pasted image 20240605004703.png",
     "BUFFER/5 课堂.md",
     "BUFFER/155 最小栈.md",
     "BUFFER/preflab.md",
@@ -291,15 +210,11 @@
     "BUFFER/POPL/2 语法分析 课堂.md",
     "BUFFER/POPL/1 词法分析 课堂.md",
     "BUFFER/POPL/3 抽象语法树AST 课堂.md",
-    "Utils/attachments/Pasted image 20240526214127.png",
     "BUFFER/c语言关键字static extern.md",
     "DISK/CS61B/gitlet 项目总结.md",
     "DISK/leetcode/手写排序.md",
     "BUFFER/lab1 & 2 回顾课.md",
-    "Utils/attachments/B6E3A24C5F56A69DF646F52EF8BC9CAA.png",
     "BUFFER/第三次作业.md",
-    "BUFFER/CSAPP/第二次作业.md",
-    "BUFFER/CSAPP/CASPP lab/bomblab.md",
     "BUFFER/POPL/lab",
     "BUFFER/OS",
     "BUFFER/ICS/PA/PA1",
