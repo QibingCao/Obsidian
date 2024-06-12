@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ccea1332abd36ae3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第四次作业.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BUFFER/实验 2 基于开源 AUTOSAR 的汽车故障诊断实验.md"
+                "file": "第四次作业.md"
               }
             }
           },
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUFFER/实验 2 基于开源 AUTOSAR 的汽车故障诊断实验.md",
+                "file": "第四次作业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUFFER/实验 2 基于开源 AUTOSAR 的汽车故障诊断实验.md",
+                "file": "第四次作业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,10 +190,11 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "bd01d7a91324071c",
+  "active": "ccea1332abd36ae3",
   "lastOpenFiles": [
-    "BUFFER/实验 1 AutoSar 开源软件环境搭建和编译实验.md",
+    "第四次作业.md",
     "BUFFER/实验 2 基于开源 AUTOSAR 的汽车故障诊断实验.md",
+    "BUFFER/实验 1 AutoSar 开源软件环境搭建和编译实验.md",
     "BUFFER/课堂 寄存器分配.md",
     "Utils/attachments/Pasted image 20240611211129.png",
     "Utils/attachments/Pasted image 20240611211000.png",
