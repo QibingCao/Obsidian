@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 236.5,
+    "collapsed": true
   },
   "right": {
     "id": "a8bddfc9c6119260",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第四次作业.md"
+                "file": "BUFFER/实验 2 基于开源 AUTOSAR 的汽车故障诊断实验.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第四次作业.md",
+                "file": "BUFFER/实验 2 基于开源 AUTOSAR 的汽车故障诊断实验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第四次作业.md",
+                "file": "BUFFER/实验 2 基于开源 AUTOSAR 的汽车故障诊断实验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,8 +190,10 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "ccea1332abd36ae3",
+  "active": "bd01d7a91324071c",
   "lastOpenFiles": [
+    "Utils/attachments/Pasted image 20240614201112.png",
+    "Utils/attachments/Pasted image 20240614200034.png",
     "第四次作业.md",
     "BUFFER/实验 2 基于开源 AUTOSAR 的汽车故障诊断实验.md",
     "BUFFER/实验 1 AutoSar 开源软件环境搭建和编译实验.md",
@@ -208,7 +210,6 @@
     "Utils/attachments/Pasted image 20240606180003.png",
     "Utils/attachments/Pasted image 20240606175840.png",
     "Utils/attachments/Pasted image 20240606171010.png",
-    "Utils/attachments/Pasted image 20240605190959.png",
     "BUFFER/5 课堂.md",
     "BUFFER/155 最小栈.md",
     "BUFFER/preflab.md",
@@ -228,7 +229,6 @@
     "DISK/CS61B/gitlet 项目总结.md",
     "DISK/leetcode/手写排序.md",
     "BUFFER/lab1 & 2 回顾课.md",
-    "BUFFER/第三次作业.md",
     "BUFFER/POPL/lab",
     "BUFFER/OS",
     "BUFFER/ICS/PA/PA1",
