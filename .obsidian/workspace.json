@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0fcea0423220f6c9",
+        "id": "b1598dad1d84382a",
         "type": "tabs",
         "children": [
           {
-            "id": "7dda8dac388cc774",
+            "id": "e766672738f64ebb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BUFFER/CSAPP/第二次作业.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -54,7 +50,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 200
   },
   "right": {
     "id": "a8bddfc9c6119260",
@@ -84,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BUFFER/CSAPP/第二次作业.md"
-              }
+              "state": {}
             }
           },
           {
@@ -103,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUFFER/CSAPP/第二次作业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUFFER/CSAPP/第二次作业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 475.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,44 +159,45 @@
   },
   "active": "bd01d7a91324071c",
   "lastOpenFiles": [
-    "BUFFER/POPL/寄存器分配.md",
-    "BUFFER/CSAPP期末.md",
-    "Utils/attachments/Pasted image 20240706111942.png",
-    "BUFFER/CSAPP/第四次作业.md",
-    "BUFFER/编译原理.md",
-    "BUFFER/POPL期末.md",
-    "BUFFER/POPL/lab/Lab1.md",
-    "BUFFER/POPL/SSA 静态单赋值形式.md",
-    "BUFFER/POPL/课堂 寄存器分配.md",
-    "README.md",
-    "BUFFER/CSAPP/第三次作业.md",
-    "BUFFER/ICS/PA github.md",
-    "BUFFER/POPL/lab1 & 2 回顾课.md",
-    "BUFFER/POPL/5 课堂.md",
+    "BUFFER/autograder setup报错.md",
+    "BUFFER/task 1.5.md",
+    "BUFFER/142 & 287 环形链表找环入口.md",
+    "BUFFER/5 最长回文子串.md",
+    "BUFFER/回溯得到 最长公共子序列.md",
+    "Utils/attachments/Pasted image 20240721140452.png",
+    "DISK/leetcode/145 144 94 二叉树的非递归遍历.md",
+    "BUFFER/Task 0 visual 配置bug解决.md",
+    "BUFFER/ML相关.md",
+    "BUFFER/pip ProxyError.md",
+    "DISK/POPL/SSA 静态单赋值形式.md",
+    "BUFFER/系统调用 == 祭祀.md",
+    "DISK/POPL/1 词法分析 课堂.md",
+    "DISK/POPL/POPL期末.md",
+    "DISK/POPL/POPL视频.md",
+    "DISK/POPL/编译原理.md",
+    "DISK/CSAPP/CSAPP期末.md",
+    "DISK/POPL/寄存器分配.md",
+    "DISK/POPL/课堂 寄存器分配.md",
+    "DISK/POPL/5 课堂.md",
+    "DISK/POPL/4 程序的中间表示 课堂.md",
+    "DISK/POPL/lab1 & 2 回顾课.md",
+    "DISK/POPL/3.2 类型检查（多态 类型推导）.md",
+    "DISK/POPL/3 抽象语法树AST 课堂.md",
+    "DISK/POPL/2 语法分析 课堂.md",
+    "DISK/POPL/identifier规范.md",
+    "DISK/POPL/Principal of Programming Language.md",
+    "Utils/attachments/Pasted image 20240708222909.png",
+    "Utils/attachments/Pasted image 20240707212535.png",
+    "Utils/attachments/Pasted image 20240707212526.png",
+    "Utils/attachments/Pasted image 20240707212516.png",
+    "Utils/attachments/Pasted image 20240707212506.png",
+    "Utils/attachments/Pasted image 20240707212455.png",
+    "Utils/attachments/Pasted image 20240707212445.png",
+    "Utils/attachments/Pasted image 20240707212434.png",
+    "Utils/attachments/Pasted image 20240707212424.png",
     "BUFFER/汽车人",
-    "BUFFER/CSAPP 期末重点.md",
-    "BUFFER/汽车人报告.md",
-    "BUFFER/优化程序性能.md",
-    "BUFFER/压测.md",
-    "DISK/leetcode/435 无重叠区间.md",
-    "BUFFER/CSAPP/CASPP lab/preflab.md",
-    "BUFFER/OS/c语言关键字static extern.md",
-    "BUFFER/POPL/4 程序的中间表示 课堂.md",
-    "BUFFER/POPL/3.2 类型检查（多态 类型推导）.md",
-    "BUFFER/POPL/3 抽象语法树AST 课堂.md",
-    "BUFFER/POPL/2 语法分析 课堂.md",
-    "BUFFER/POPL/1 词法分析 课堂.md",
-    "Utils/attachments/Pasted image 20240704222735.png",
-    "Utils/attachments/Pasted image 20240704214759.png",
-    "Utils/attachments/Pasted image 20240704150509.png",
-    "Utils/attachments/Pasted image 20240704150348.png",
-    "Utils/attachments/Pasted image 20240704144502.png",
-    "Utils/attachments/Pasted image 20240704144216.png",
-    "Utils/attachments/Pasted image 20240704144059.png",
-    "Utils/attachments/Pasted image 20240704143817.png",
-    "Utils/attachments/Pasted image 20240619003012.png",
     "BUFFER/C++",
-    "BUFFER/POPL/lab",
+    "DISK/POPL/lab",
     "BUFFER/OS",
     "BUFFER/ICS/PA/PA1",
     "BUFFER/ICS/PA/PA0",
