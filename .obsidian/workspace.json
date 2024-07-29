@@ -8,14 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e766672738f64ebb",
+            "id": "111f5b152d0f2a64",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BUFFER/实习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99ecd95c8c532c9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BUFFER/dlsys.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee6c691d7a842b0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BUFFER/32 最长有效括号.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "区间",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BUFFER/dlsys.md"
+              }
             }
           },
           {
@@ -97,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BUFFER/dlsys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BUFFER/dlsys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,12 +192,28 @@
   },
   "active": "bd01d7a91324071c",
   "lastOpenFiles": [
+    "Utils/attachments/Pasted image 20240729212348.png",
+    "Utils/attachments/Pasted image 20240729211359.png",
+    "Utils/attachments/Pasted image 20240729205449.png",
+    "Utils/attachments/Pasted image 20240729204458.png",
+    "Utils/attachments/Pasted image 20240729204447.png",
+    "Utils/attachments/Pasted image 20240729202208.png",
+    "Utils/attachments/Pasted image 20240729194512.png",
+    "Utils/attachments/Pasted image 20240729194450.png",
+    "Utils/attachments/Pasted image 20240729193241.png",
+    "Utils/attachments/Pasted image 20240729160036.png",
+    "Utils/attachments/Pasted image 20240729151752.png",
+    "BUFFER/实习.md",
+    "BUFFER/dlsys.md",
+    "BUFFER/32 最长有效括号.md",
+    "DISK/CSAPP/第四次作业.md",
+    "DISK/leetcode/二分算法.md",
+    "BUFFER/Task 2.4 除法Div会报错.md",
     "BUFFER/autograder setup报错.md",
     "BUFFER/task 1.5.md",
     "BUFFER/142 & 287 环形链表找环入口.md",
     "BUFFER/5 最长回文子串.md",
     "BUFFER/回溯得到 最长公共子序列.md",
-    "Utils/attachments/Pasted image 20240721140452.png",
     "DISK/leetcode/145 144 94 二叉树的非递归遍历.md",
     "BUFFER/Task 0 visual 配置bug解决.md",
     "BUFFER/ML相关.md",
@@ -179,22 +228,6 @@
     "DISK/POPL/寄存器分配.md",
     "DISK/POPL/课堂 寄存器分配.md",
     "DISK/POPL/5 课堂.md",
-    "DISK/POPL/4 程序的中间表示 课堂.md",
-    "DISK/POPL/lab1 & 2 回顾课.md",
-    "DISK/POPL/3.2 类型检查（多态 类型推导）.md",
-    "DISK/POPL/3 抽象语法树AST 课堂.md",
-    "DISK/POPL/2 语法分析 课堂.md",
-    "DISK/POPL/identifier规范.md",
-    "DISK/POPL/Principal of Programming Language.md",
-    "Utils/attachments/Pasted image 20240708222909.png",
-    "Utils/attachments/Pasted image 20240707212535.png",
-    "Utils/attachments/Pasted image 20240707212526.png",
-    "Utils/attachments/Pasted image 20240707212516.png",
-    "Utils/attachments/Pasted image 20240707212506.png",
-    "Utils/attachments/Pasted image 20240707212455.png",
-    "Utils/attachments/Pasted image 20240707212445.png",
-    "Utils/attachments/Pasted image 20240707212434.png",
-    "Utils/attachments/Pasted image 20240707212424.png",
     "BUFFER/汽车人",
     "BUFFER/C++",
     "DISK/POPL/lab",
