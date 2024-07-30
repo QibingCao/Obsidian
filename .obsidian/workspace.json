@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f9693da7e7f6725e",
+        "id": "7be8124d17205f1c",
         "type": "tabs",
         "children": [
           {
-            "id": "d945f69039a0e1a5",
+            "id": "864b7cad9965f84c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BUFFER/DLSYS 10-714.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BUFFER/DLSYS 10-714.md"
+                "file": "BUFFER/OS/c语言函数调用的汇编级解释.md"
               }
             }
           },
@@ -103,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUFFER/DLSYS 10-714.md",
+                "file": "BUFFER/OS/c语言函数调用的汇编级解释.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUFFER/DLSYS 10-714.md",
+                "file": "BUFFER/OS/c语言函数调用的汇编级解释.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,22 +161,24 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "d945f69039a0e1a5",
+  "active": "5dd19a0a85a3b9d6",
   "lastOpenFiles": [
+    "BUFFER/OS/fork如何判断父子进程.md",
+    "BUFFER/OS/c语言关键字static extern.md",
+    "BUFFER/DLSYS 10-714.md",
+    "Utils/attachments/Pasted image 20240730133400.png",
+    "Utils/attachments/Pasted image 20240730133234.png",
+    "Utils/attachments/Pasted image 20240730131715.png",
+    "Utils/attachments/8305C0CA1DD5B2458222035ED8226618.png",
+    "Utils/attachments/Pasted image 20240730122912.png",
+    "Utils/attachments/F073787A6039F8D824B5E1AD285DAC7C.png",
+    "Utils/attachments/D21833F913DE599CCFEED32651C2BF87.png",
+    "Utils/attachments/C51415AA086B8745F25D509BF4D0E0FD.png",
+    "Utils/attachments/Pasted image 20240730111239.png",
+    "Utils/attachments/Pasted image 20240730104858.png",
     "BUFFER/实习.md",
     "BUFFER/ML相关.md",
-    "BUFFER/DLSYS 10-714.md",
     "BUFFER/minitorch",
-    "Utils/attachments/Pasted image 20240729212348.png",
-    "Utils/attachments/Pasted image 20240729211359.png",
-    "Utils/attachments/Pasted image 20240729205449.png",
-    "Utils/attachments/Pasted image 20240729204458.png",
-    "Utils/attachments/Pasted image 20240729204447.png",
-    "Utils/attachments/Pasted image 20240729202208.png",
-    "Utils/attachments/Pasted image 20240729194512.png",
-    "Utils/attachments/Pasted image 20240729194450.png",
-    "Utils/attachments/Pasted image 20240729193241.png",
-    "Utils/attachments/Pasted image 20240729160036.png",
     "BUFFER/leetcode/32 最长有效括号.md",
     "DISK/CSAPP/第四次作业.md",
     "BUFFER/leetcode/二分算法.md",
@@ -202,7 +200,6 @@
     "DISK/CSAPP/CSAPP期末.md",
     "DISK/POPL/寄存器分配.md",
     "DISK/POPL/课堂 寄存器分配.md",
-    "DISK/POPL/5 课堂.md",
     "BUFFER/汽车人",
     "BUFFER/C++",
     "DISK/POPL/lab",
