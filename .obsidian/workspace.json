@@ -11,8 +11,12 @@
             "id": "864b7cad9965f84c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BUFFER/MuLi-Notes/README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -66,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "区间",
+                "query": "560",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BUFFER/OS/c语言函数调用的汇编级解释.md"
+                "file": "BUFFER/MuLi-Notes/README.md"
               }
             }
           },
@@ -99,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUFFER/OS/c语言函数调用的汇编级解释.md",
+                "file": "BUFFER/MuLi-Notes/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUFFER/OS/c语言函数调用的汇编级解释.md",
+                "file": "BUFFER/MuLi-Notes/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,54 +165,53 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "5dd19a0a85a3b9d6",
+  "active": "bd01d7a91324071c",
   "lastOpenFiles": [
-    "BUFFER/OS/fork如何判断父子进程.md",
-    "BUFFER/OS/c语言关键字static extern.md",
+    "未命名.canvas",
+    "BUFFER/pytorch/img/frontends/image8.tiff",
+    "BUFFER/pytorch/img/frontends/image5.pdf",
+    "BUFFER/pytorch/img/frontends/image4.tiff",
+    "BUFFER/pytorch/img/frontends/image3.tiff",
+    "BUFFER/pytorch/img/frontends/image10.tiff",
+    "BUFFER/pytorch/img/frontends/image2.tiff",
+    "BUFFER/pytorch/img/frontends/Canvas 1.svg",
+    "BUFFER/pytorch/img/zeroSecDer.svg",
+    "BUFFER/pytorch/img/where-wally-walker-books.jpg",
+    "BUFFER/pytorch/img/wattvsprice.svg",
+    "BUFFER/pytorch/img/waldo-mask.jpg",
+    "BUFFER/pytorch/img/wake-word.svg",
+    "BUFFER/pytorch/img/vgg.svg",
+    "BUFFER/pytorch/img/vec-angle.svg",
+    "BUFFER/pytorch/img/vec-add.svg",
+    "BUFFER/pytorch/img/ubuntu-new.png",
+    "BUFFER/pytorch/img/frontends",
+    "BUFFER/pytorch/img",
+    "BUFFER/pytorch/chapter_references/zreferences.ipynb",
+    "BUFFER/pytorch/chapter_references",
+    "BUFFER/MuLi-Notes/README.md",
     "BUFFER/DLSYS 10-714.md",
-    "Utils/attachments/Pasted image 20240730133400.png",
-    "Utils/attachments/Pasted image 20240730133234.png",
-    "Utils/attachments/Pasted image 20240730131715.png",
-    "Utils/attachments/8305C0CA1DD5B2458222035ED8226618.png",
-    "Utils/attachments/Pasted image 20240730122912.png",
-    "Utils/attachments/F073787A6039F8D824B5E1AD285DAC7C.png",
-    "Utils/attachments/D21833F913DE599CCFEED32651C2BF87.png",
-    "Utils/attachments/C51415AA086B8745F25D509BF4D0E0FD.png",
-    "Utils/attachments/Pasted image 20240730111239.png",
-    "Utils/attachments/Pasted image 20240730104858.png",
-    "BUFFER/实习.md",
+    "BUFFER/dlsys hw0.md",
     "BUFFER/ML相关.md",
-    "BUFFER/minitorch",
-    "BUFFER/leetcode/32 最长有效括号.md",
-    "DISK/CSAPP/第四次作业.md",
-    "BUFFER/leetcode/二分算法.md",
-    "BUFFER/minitorch/Task 2.4 除法Div会报错.md",
-    "BUFFER/minitorch/autograder setup报错.md",
-    "BUFFER/minitorch/task 1.5.md",
-    "BUFFER/leetcode/142 & 287 环形链表找环入口.md",
-    "BUFFER/leetcode/5 最长回文子串.md",
-    "BUFFER/leetcode/回溯得到 最长公共子序列.md",
-    "BUFFER/leetcode/145 144 94 二叉树的非递归遍历.md",
-    "BUFFER/minitorch/Task 0 visual 配置bug解决.md",
-    "BUFFER/minitorch/pip ProxyError.md",
-    "DISK/POPL/SSA 静态单赋值形式.md",
-    "BUFFER/OS/系统调用 == 祭祀.md",
-    "DISK/POPL/1 词法分析 课堂.md",
-    "DISK/POPL/POPL期末.md",
-    "DISK/POPL/POPL视频.md",
-    "DISK/POPL/编译原理.md",
-    "DISK/CSAPP/CSAPP期末.md",
-    "DISK/POPL/寄存器分配.md",
-    "DISK/POPL/课堂 寄存器分配.md",
-    "BUFFER/汽车人",
-    "BUFFER/C++",
-    "DISK/POPL/lab",
-    "BUFFER/OS",
-    "BUFFER/ICS/PA/PA1",
-    "BUFFER/ICS/PA/PA0",
-    "BUFFER/ICS/PA",
-    "DISK/C++11 特性",
-    "DISK/随想",
-    "未命名.canvas"
+    "BUFFER/MuLi-Notes/notes/72-优化算法.md",
+    "BUFFER/MuLi-Notes/notes/70-BERT微调.md",
+    "BUFFER/MuLi-Notes/notes/69-bert预训练.md",
+    "BUFFER/MuLi-Notes/notes/68-Transformer.md",
+    "BUFFER/MuLi-Notes/notes/65-注意力分数.md",
+    "BUFFER/MuLi-Notes/notes/63-束搜索.md",
+    "BUFFER/MuLi-Notes/notes/62-序列到序列学习.md",
+    "BUFFER/MuLi-Notes/notes/61-编码器-解码器架构.md",
+    "BUFFER/MuLi-Notes/notes/57-LSTM.md",
+    "BUFFER/MuLi-Notes/notes/58-深层循环神经网络.md",
+    "BUFFER/MuLi-Notes/notes/56-GRU.md",
+    "BUFFER/MuLi-Notes/notes/54-循环神经网络RNN.md",
+    "BUFFER/MuLi-Notes/notes/53-语言模型.md",
+    "BUFFER/MuLi-Notes/notes/51-序列模型.md",
+    "BUFFER/MuLi-Notes/notes/50-课程竞赛：牛仔行头检测.md",
+    "BUFFER/MuLi-Notes/notes/49-样式迁移.md",
+    "BUFFER/MuLi-Notes/notes/48-全连接卷积神经网络（FCN）.md",
+    "BUFFER/MuLi-Notes/notes/47-转置卷积.md",
+    "BUFFER/MuLi-Notes/notes/46-语义分割.md",
+    "BUFFER/MuLi-Notes/notes/44-物体检测算法：R-CNN,SSD,YOLO.md",
+    "BUFFER/MuLi-Notes/notes/43-树叶分类竞赛技术总结.md"
   ]
 }
