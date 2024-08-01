@@ -4,5 +4,7 @@
   "templater-obsidian",
   "obsidian-spaced-repetition",
   "codeblock-customizer",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-html-plugin",
+  "obsidian-local-img-plugin"
 ]

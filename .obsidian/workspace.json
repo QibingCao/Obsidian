@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7be8124d17205f1c",
+        "id": "dbc7783238eabfbf",
         "type": "tabs",
         "children": [
           {
-            "id": "864b7cad9965f84c",
+            "id": "2d9701f2ff7a36ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BUFFER/MuLi-Notes/README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BUFFER/MuLi-Notes/README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -103,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUFFER/MuLi-Notes/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUFFER/MuLi-Notes/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,8 +157,21 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "bd01d7a91324071c",
+  "active": "2d9701f2ff7a36ea",
   "lastOpenFiles": [
+    "BUFFER/MuLi-Notes/notes/28-批量归一化.md",
+    "BUFFER/MuLi-Notes/notes/26-NiN.md",
+    "BUFFER/MuLi-Notes/notes/24-AlexNet.md",
+    "BUFFER/MuLi-Notes/notes/14-数值稳定性.md",
+    "BUFFER/MuLi-Notes/notes/12-权重衰退.md",
+    "BUFFER/MuLi-Notes/notes/10-多层感知机.md",
+    "BUFFER/MuLi-Notes/notes/09-softmax回归.md",
+    "BUFFER/MuLi-Notes/notes/06-矩阵计算.md",
+    "BUFFER/MuLi-Notes/media/idea.png",
+    "BUFFER/MuLi-Notes/notes/02-深度学习介绍.md",
+    "BUFFER/MuLi-Notes/notes/01-课程安排.md",
+    "BUFFER/MuLi-Notes/notes/00-预告.md",
+    "BUFFER/MuLi-Notes/README.md",
     "未命名.canvas",
     "BUFFER/pytorch/img/frontends/image8.tiff",
     "BUFFER/pytorch/img/frontends/image5.pdf",
@@ -183,12 +188,10 @@
     "BUFFER/pytorch/img/vgg.svg",
     "BUFFER/pytorch/img/vec-angle.svg",
     "BUFFER/pytorch/img/vec-add.svg",
-    "BUFFER/pytorch/img/ubuntu-new.png",
     "BUFFER/pytorch/img/frontends",
     "BUFFER/pytorch/img",
     "BUFFER/pytorch/chapter_references/zreferences.ipynb",
     "BUFFER/pytorch/chapter_references",
-    "BUFFER/MuLi-Notes/README.md",
     "BUFFER/DLSYS 10-714.md",
     "BUFFER/dlsys hw0.md",
     "BUFFER/ML相关.md",
@@ -202,16 +205,6 @@
     "BUFFER/MuLi-Notes/notes/61-编码器-解码器架构.md",
     "BUFFER/MuLi-Notes/notes/57-LSTM.md",
     "BUFFER/MuLi-Notes/notes/58-深层循环神经网络.md",
-    "BUFFER/MuLi-Notes/notes/56-GRU.md",
-    "BUFFER/MuLi-Notes/notes/54-循环神经网络RNN.md",
-    "BUFFER/MuLi-Notes/notes/53-语言模型.md",
-    "BUFFER/MuLi-Notes/notes/51-序列模型.md",
-    "BUFFER/MuLi-Notes/notes/50-课程竞赛：牛仔行头检测.md",
-    "BUFFER/MuLi-Notes/notes/49-样式迁移.md",
-    "BUFFER/MuLi-Notes/notes/48-全连接卷积神经网络（FCN）.md",
-    "BUFFER/MuLi-Notes/notes/47-转置卷积.md",
-    "BUFFER/MuLi-Notes/notes/46-语义分割.md",
-    "BUFFER/MuLi-Notes/notes/44-物体检测算法：R-CNN,SSD,YOLO.md",
-    "BUFFER/MuLi-Notes/notes/43-树叶分类竞赛技术总结.md"
+    "BUFFER/MuLi-Notes/notes/56-GRU.md"
   ]
 }
