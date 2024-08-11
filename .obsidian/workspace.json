@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dbc7783238eabfbf",
+        "id": "c8f96c912df62706",
         "type": "tabs",
         "children": [
           {
-            "id": "2d9701f2ff7a36ea",
+            "id": "a7417427a23293af",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BUFFER/CPP 王道 随机.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -66,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "560",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BUFFER/CPP 王道 随机.md"
+              }
             }
           },
           {
@@ -97,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BUFFER/CPP 王道 随机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BUFFER/CPP 王道 随机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,57 +162,59 @@
       "command-palette:打开命令面板": true,
       "publish:发布更改": false,
       "templater-obsidian:Templater": true,
-      "obsidian-spaced-repetition:复习卡片": false
+      "obsidian-spaced-repetition:复习卡片": false,
+      "workspaces:管理工作区布局": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "2d9701f2ff7a36ea",
+  "active": "bd01d7a91324071c",
   "lastOpenFiles": [
-    "BUFFER/MuLi-Notes/notes/28-批量归一化.md",
-    "BUFFER/MuLi-Notes/notes/26-NiN.md",
-    "BUFFER/MuLi-Notes/notes/24-AlexNet.md",
-    "BUFFER/MuLi-Notes/notes/14-数值稳定性.md",
-    "BUFFER/MuLi-Notes/notes/12-权重衰退.md",
-    "BUFFER/MuLi-Notes/notes/10-多层感知机.md",
-    "BUFFER/MuLi-Notes/notes/09-softmax回归.md",
-    "BUFFER/MuLi-Notes/notes/06-矩阵计算.md",
-    "BUFFER/MuLi-Notes/media/idea.png",
-    "BUFFER/MuLi-Notes/notes/02-深度学习介绍.md",
-    "BUFFER/MuLi-Notes/notes/01-课程安排.md",
-    "BUFFER/MuLi-Notes/notes/00-预告.md",
-    "BUFFER/MuLi-Notes/README.md",
+    "Utils/attachments/Pasted image 20240811171803.png",
+    "Utils/attachments/file_1723367865013_153.png",
+    "Utils/attachments/Pasted image 20240330194518.png",
+    "Utils/attachments/Pasted image 20240329222542.png",
+    "DISK/tinyRPC/全局config实现.md",
+    "BUFFER/CPP 王道 随机.md",
+    "Utils/attachments/Pasted image 20240811171731.png",
+    "BUFFER/Linux 王道.md",
+    "BUFFER/2.类与对象.md",
+    "Utils/attachments/Pasted image 20240811171705.png",
+    "Utils/attachments/Pasted image 20240811171646.png",
+    "BUFFER/CPP 王道.md",
+    "BUFFER/10.移动语义与资源管理.md",
+    "Utils/attachments/Pasted image 20240809223637.png",
     "未命名.canvas",
+    "README.md",
+    "BUFFER/Cppbase作业簿册.md",
+    "BUFFER/cppbase_homework/day01作业.md",
+    "DISK/CSAPP/CASPP lab/malloc lab.md",
+    "BUFFER/深度探索c++对象模型.md",
+    "Utils/attachments/Pasted image 20240809213324.png",
+    "Utils/attachments/Pasted image 20240809213311.png",
+    "Utils/attachments/Pasted image 20240809212156.png",
+    "BUFFER/cppbase_homework/day02作业.md",
+    "BUFFER/C++/cpp八股.md",
+    "BUFFER/OS/Linux_1_常用命令.md",
+    "BUFFER/cppbase_homework/day16作业.md",
+    "BUFFER/cppbase_homework/day15作业.md",
+    "BUFFER/cppbase_homework/day14作业.md",
+    "BUFFER/cppbase_homework/day12作业.md",
+    "BUFFER/cppbase_homework/day13作业.md",
+    "BUFFER/cppbase_homework/day11作业.md",
+    "BUFFER/cppbase_homework/day10作业.md",
+    "BUFFER/cppbase_homework/day09作业.md",
+    "BUFFER/cppbase_homework/day07作业.md",
+    "BUFFER/cppbase_homework/day06作业.md",
+    "BUFFER/cppbase_homework/day05作业.md",
+    "BUFFER/cppbase_homework",
+    "BUFFER/OS/Linux_1_常用命令.pdf",
     "BUFFER/pytorch/img/frontends/image8.tiff",
     "BUFFER/pytorch/img/frontends/image5.pdf",
     "BUFFER/pytorch/img/frontends/image4.tiff",
     "BUFFER/pytorch/img/frontends/image3.tiff",
     "BUFFER/pytorch/img/frontends/image10.tiff",
     "BUFFER/pytorch/img/frontends/image2.tiff",
-    "BUFFER/pytorch/img/frontends/Canvas 1.svg",
-    "BUFFER/pytorch/img/zeroSecDer.svg",
-    "BUFFER/pytorch/img/where-wally-walker-books.jpg",
-    "BUFFER/pytorch/img/wattvsprice.svg",
-    "BUFFER/pytorch/img/waldo-mask.jpg",
-    "BUFFER/pytorch/img/wake-word.svg",
-    "BUFFER/pytorch/img/vgg.svg",
-    "BUFFER/pytorch/img/vec-angle.svg",
-    "BUFFER/pytorch/img/vec-add.svg",
     "BUFFER/pytorch/img/frontends",
-    "BUFFER/pytorch/img",
-    "BUFFER/pytorch/chapter_references/zreferences.ipynb",
-    "BUFFER/pytorch/chapter_references",
-    "BUFFER/DLSYS 10-714.md",
-    "BUFFER/dlsys hw0.md",
-    "BUFFER/ML相关.md",
-    "BUFFER/MuLi-Notes/notes/72-优化算法.md",
-    "BUFFER/MuLi-Notes/notes/70-BERT微调.md",
-    "BUFFER/MuLi-Notes/notes/69-bert预训练.md",
-    "BUFFER/MuLi-Notes/notes/68-Transformer.md",
-    "BUFFER/MuLi-Notes/notes/65-注意力分数.md",
-    "BUFFER/MuLi-Notes/notes/63-束搜索.md",
-    "BUFFER/MuLi-Notes/notes/62-序列到序列学习.md",
-    "BUFFER/MuLi-Notes/notes/61-编码器-解码器架构.md",
-    "BUFFER/MuLi-Notes/notes/57-LSTM.md",
-    "BUFFER/MuLi-Notes/notes/58-深层循环神经网络.md",
-    "BUFFER/MuLi-Notes/notes/56-GRU.md"
+    "BUFFER/pytorch/img"
   ]
 }
