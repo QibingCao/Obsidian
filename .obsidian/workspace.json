@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c8f96c912df62706",
+        "id": "b69115da9bb1b972",
         "type": "tabs",
         "children": [
           {
-            "id": "a7417427a23293af",
+            "id": "f4cf1e005eba765d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BUFFER/CPP 王道 随机.md",
+                "file": "BUFFER/Linux 王道 随机.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "72",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BUFFER/CPP 王道 随机.md"
+                "file": "BUFFER/Linux 王道 随机.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUFFER/CPP 王道 随机.md",
+                "file": "BUFFER/Linux 王道 随机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BUFFER/CPP 王道 随机.md",
+                "file": "BUFFER/Linux 王道 随机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,8 +155,8 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": true,
-      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
+      "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": true,
       "command-palette:打开命令面板": true,
@@ -169,29 +169,33 @@
   },
   "active": "bd01d7a91324071c",
   "lastOpenFiles": [
-    "Utils/attachments/Pasted image 20240811171803.png",
-    "Utils/attachments/file_1723367865013_153.png",
-    "Utils/attachments/Pasted image 20240330194518.png",
-    "Utils/attachments/Pasted image 20240329222542.png",
-    "DISK/tinyRPC/全局config实现.md",
+    "Utils/attachments/Pasted image 20240817213550.png",
+    "Utils/attachments/Pasted image 20240817212910.png",
+    "Utils/attachments/Pasted image 20240817130832.png",
+    "Utils/attachments/Pasted image 20240817130821.png",
+    "Utils/attachments/Pasted image 20240817130806.png",
+    "Utils/attachments/Pasted image 20240817130752.png",
+    "Utils/attachments/Pasted image 20240817113307.png",
+    "Utils/attachments/Pasted image 20240817105311.png",
+    "Utils/attachments/Pasted image 20240816234112.png",
+    "Utils/attachments/Pasted image 20240816214515.png",
+    "BUFFER/Linux 王道 随机.md",
+    "Utils/attachments/Pasted image 20240816201258.png",
     "BUFFER/CPP 王道 随机.md",
-    "Utils/attachments/Pasted image 20240811171731.png",
+    "BUFFER/MuLi-Notes/notes/72-优化算法.md",
     "BUFFER/Linux 王道.md",
-    "BUFFER/2.类与对象.md",
-    "Utils/attachments/Pasted image 20240811171705.png",
-    "Utils/attachments/Pasted image 20240811171646.png",
+    "BUFFER/Cppbase作业簿册.md",
     "BUFFER/CPP 王道.md",
+    "BUFFER/2.类与对象.md",
     "BUFFER/10.移动语义与资源管理.md",
-    "Utils/attachments/Pasted image 20240809223637.png",
+    "BUFFER/C++分享--代码小白的学习历程.md",
+    "未命名.md",
+    "DISK/tinyRPC/全局config实现.md",
     "未命名.canvas",
     "README.md",
-    "BUFFER/Cppbase作业簿册.md",
     "BUFFER/cppbase_homework/day01作业.md",
     "DISK/CSAPP/CASPP lab/malloc lab.md",
     "BUFFER/深度探索c++对象模型.md",
-    "Utils/attachments/Pasted image 20240809213324.png",
-    "Utils/attachments/Pasted image 20240809213311.png",
-    "Utils/attachments/Pasted image 20240809212156.png",
     "BUFFER/cppbase_homework/day02作业.md",
     "BUFFER/C++/cpp八股.md",
     "BUFFER/OS/Linux_1_常用命令.md",
@@ -202,10 +206,6 @@
     "BUFFER/cppbase_homework/day13作业.md",
     "BUFFER/cppbase_homework/day11作业.md",
     "BUFFER/cppbase_homework/day10作业.md",
-    "BUFFER/cppbase_homework/day09作业.md",
-    "BUFFER/cppbase_homework/day07作业.md",
-    "BUFFER/cppbase_homework/day06作业.md",
-    "BUFFER/cppbase_homework/day05作业.md",
     "BUFFER/cppbase_homework",
     "BUFFER/OS/Linux_1_常用命令.pdf",
     "BUFFER/pytorch/img/frontends/image8.tiff",
